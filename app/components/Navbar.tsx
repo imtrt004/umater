@@ -39,6 +39,17 @@ export default function Navbar() {
                   ? 'bg-gray-100 dark:bg-gray-700 text-gray-900 dark:text-white' 
                   : 'text-gray-700 dark:text-gray-300 hover:bg-gray-100 dark:hover:bg-gray-700'}`}
             >
+              <FaFire className="mr-1.5 h-5 w-5 text-orange-500" />
+              <span>Trending</span>
+            </Link>
+            
+            <Link 
+              href="/keywords"
+              className={`flex items-center px-3 py-2 rounded-md text-sm font-medium 
+                ${pathname === '/keywords' || pathname.startsWith('/keywords/') 
+                  ? 'bg-gray-100 dark:bg-gray-700 text-gray-900 dark:text-white' 
+                  : 'text-gray-700 dark:text-gray-300 hover:bg-gray-100 dark:hover:bg-gray-700'}`}
+            >
               <FaKeyboard className="mr-1.5 h-5 w-5 text-blue-500" />
               <span>Keywords</span>
             </Link>
