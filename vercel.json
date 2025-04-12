@@ -1,0 +1,10 @@
+{
+    "build": {
+      "env": {
+        "NPM_FLAGS": "--force --legacy-peer-deps"
+      }
+    },
+    "installCommand": "npm install --force --legacy-peer-deps",
+    "framework": "nextjs",
+    "buildCommand": "npm run build"
+  } 

@@ -1,0 +1,3411 @@
+{
+    "kind": "youtube#commentThreadListResponse",
+    "etag": "d7trXgwp9U_Dp03sWO_5ayNhM04",
+    "nextPageToken": "Z2V0X3JhbmtlZF9zdHJlYW1zLS1Db01FQ0lBRUZSZTMwVGdhLUFNSzh3TUkyRjhRZ0FRWUJ5TG9BOHNnMDlEd0JOclVZbWNpWVFnbWNJQ0swTGk4LThoeWVKU1VKSlMxZWw0aHF6eEN4WktaaHpPOUtmaXhxYUtnVElnMUUtak1WM0Jzc0k5M01sQU9ieExMZXRIVkN5YUluRlctY0hUcVZGRzFaVTNrOXRvcnNVeUNzVTEwSjNOeXpERmFRdDRJV2s3MVZDR2hDR1QzQ1NfSjdkdlpSbUllRTFNZ3JacExwRFJoT204MTl0WmdDeW52SlJXMk1hS2syWUdnRkVIYXpCYVE0SWpFNGdPcENzV0RuYUdGT2VDQkZPZE4xSkdXT0N0RE5ZdUVjc2FKWW1peUhncGIzUHJpUEVRMmVZMklHamRTNFVnb1YwRklpUjEwMmFFaDJXWmlVRjlKVzNoMkk0VzFEdUs1bVVBNlNIdVQ4ejF6cG9XMzJrWkpZUXpza3NJWW5wTmRrU1JEMkNpVTVXSExpLXlFOE1Cd2FGVlRjdDZJOUlHVFk2WWlqcV9vamZzS3RhSWhNbHZvZkdGbFJDWEpHRkk4OFdJMEpiTkJZZ2poMWczVmRpa0NHam9iV1ZnVVB1Sm9KdXgwRFZlR2hnajdsekpsQ3hGY016YkZqQnJXbTc3WUZjajRSc1UxR1pWRlk3amZEU0xhakhweEppNmMwZEFhU3ZRdW1acXlVMDNJV1lGMEFaVlF1NmFTWldFNlZ2UkZhQWxIUkhKUmh1aGlkQ1dpTk41SGF0cHBEQ1hUUjBMVnVCNVppbi1RZVVJSkxoMHZ1SU9aRmZjTDQySlBJbWpraFZHSmROcmUyclFJM3A1MzZZRExBTEtkaFZkNm9QWmxNNGVoYUV4akpqU1NoU3FFN2NwZUpiQVFiNVFuRUdRU0JRaW9JQmdBRWdVSWlDQVlBQklIQ0ljZ0VBRVlBQklGQ0lrZ0dBQVNCd2lGSUJCa0dBRQ==",
+    "pageInfo": {
+        "totalResults": 100,
+        "resultsPerPage": 100
+    },
+    "items": [
+        {
+            "kind": "youtube#commentThread",
+            "etag": "iDJU2VLdW7lsXnEMzyTmdLozmf8",
+            "id": "UgzEO4UY8xM_R8gwtQp4AaABAg",
+            "snippet": {
+                "channelId": "UCs5Y5_7XK8HLDX0SLNwkd3w",
+                "videoId": "dutyOc_cAEU",
+                "topLevelComment": {
+                    "kind": "youtube#comment",
+                    "etag": "ww-2irorXF619-C40vBs5OjBZCQ",
+                    "id": "UgzEO4UY8xM_R8gwtQp4AaABAg",
+                    "snippet": {
+                        "channelId": "UCs5Y5_7XK8HLDX0SLNwkd3w",
+                        "videoId": "dutyOc_cAEU",
+                        "textDisplay": "Grab the PRD here: <a href=\"https://gist.github.com/burkeholland/24802296b5bfaaf7fb775c81cd626512\">https://gist.github.com/burkeholland/24802296b5bfaaf7fb775c81cd626512</a>",
+                        "textOriginal": "Grab the PRD here: https://gist.github.com/burkeholland/24802296b5bfaaf7fb775c81cd626512",
+                        "authorDisplayName": "@code",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/SrR4yedn6iaf431Y8ciCu6m_NTu0xqPyAYTps0WV0QgQO9NA2JUZDdJMg4435wI-wR8peEW59A=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/@code",
+                        "authorChannelId": {
+                            "value": "UCs5Y5_7XK8HLDX0SLNwkd3w"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 40,
+                        "publishedAt": "2025-04-10T19:52:29Z",
+                        "updatedAt": "2025-04-10T19:52:29Z"
+                    }
+                },
+                "canReply": true,
+                "totalReplyCount": 6,
+                "isPublic": true
+            }
+        },
+        {
+            "kind": "youtube#commentThread",
+            "etag": "7Tjc8hpvm7yWc3l3hWnssgdppHw",
+            "id": "UgzUVsKUOiShuP4Ni3B4AaABAg",
+            "snippet": {
+                "channelId": "UCs5Y5_7XK8HLDX0SLNwkd3w",
+                "videoId": "dutyOc_cAEU",
+                "topLevelComment": {
+                    "kind": "youtube#comment",
+                    "etag": "x8eU7GJ4fBA7m_XUp3xXwsDtOqs",
+                    "id": "UgzUVsKUOiShuP4Ni3B4AaABAg",
+                    "snippet": {
+                        "channelId": "UCs5Y5_7XK8HLDX0SLNwkd3w",
+                        "videoId": "dutyOc_cAEU",
+                        "textDisplay": "I love how he kept it real, showed both pros n cons, what a dev could face when using agent mode",
+                        "textOriginal": "I love how he kept it real, showed both pros n cons, what a dev could face when using agent mode",
+                        "authorDisplayName": "@adithiyag4616",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_nERB3WjYLPLZGo5RkNBjQlF-UjXRsviUysqrRYBwLqn8U=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/@adithiyag4616",
+                        "authorChannelId": {
+                            "value": "UC3C2dgtrPz7-_5XZXwSG8Uw"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 352,
+                        "publishedAt": "2025-04-10T02:06:52Z",
+                        "updatedAt": "2025-04-10T02:06:52Z"
+                    }
+                },
+                "canReply": true,
+                "totalReplyCount": 8,
+                "isPublic": true
+            }
+        },
+        {
+            "kind": "youtube#commentThread",
+            "etag": "hD6L8CE6gYYDz_xtIcqOSR12nj4",
+            "id": "UgzsEhz1JObxpglruj54AaABAg",
+            "snippet": {
+                "channelId": "UCs5Y5_7XK8HLDX0SLNwkd3w",
+                "videoId": "dutyOc_cAEU",
+                "topLevelComment": {
+                    "kind": "youtube#comment",
+                    "etag": "Osk7d5nZqCmCSpJncUv_bNntceQ",
+                    "id": "UgzsEhz1JObxpglruj54AaABAg",
+                    "snippet": {
+                        "channelId": "UCs5Y5_7XK8HLDX0SLNwkd3w",
+                        "videoId": "dutyOc_cAEU",
+                        "textDisplay": "Burke, this video was amazing thanks to your ability to communicate. Hoping for more videos with you!",
+                        "textOriginal": "Burke, this video was amazing thanks to your ability to communicate. Hoping for more videos with you!",
+                        "authorDisplayName": "@oscardavidsg",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_kcixCOYpenprW9AYkMKB5yfA0Fe-Zm-46sX5uqXWb2LDBo=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/@oscardavidsg",
+                        "authorChannelId": {
+                            "value": "UCNFY_JA9OL5hsq5fYkkse-w"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 34,
+                        "publishedAt": "2025-04-10T18:45:25Z",
+                        "updatedAt": "2025-04-10T18:45:25Z"
+                    }
+                },
+                "canReply": true,
+                "totalReplyCount": 1,
+                "isPublic": true
+            }
+        },
+        {
+            "kind": "youtube#commentThread",
+            "etag": "q0qehxr3uff7w2yE7h0Wxcu69Yg",
+            "id": "UgwYWtxj7oaX0MebdK54AaABAg",
+            "snippet": {
+                "channelId": "UCs5Y5_7XK8HLDX0SLNwkd3w",
+                "videoId": "dutyOc_cAEU",
+                "topLevelComment": {
+                    "kind": "youtube#comment",
+                    "etag": "ciYQdxQZm0cAbINwCM-NLNeSR0M",
+                    "id": "UgwYWtxj7oaX0MebdK54AaABAg",
+                    "snippet": {
+                        "channelId": "UCs5Y5_7XK8HLDX0SLNwkd3w",
+                        "videoId": "dutyOc_cAEU",
+                        "textDisplay": "I like the way you explained the MCP code; it was a logical build-up that made sense. A lot of people have explained it, but the explanations get confusing.",
+                        "textOriginal": "I like the way you explained the MCP code; it was a logical build-up that made sense. A lot of people have explained it, but the explanations get confusing.",
+                        "authorDisplayName": "@sheeraz_",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_lDBvQfcEPsBpfwGLA-qXd_rL3k0dAhwWhdxTbR_-Gm5m8=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/@sheeraz_",
+                        "authorChannelId": {
+                            "value": "UCG3DG25iMMfOWtNl-urCG0w"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 45,
+                        "publishedAt": "2025-04-10T03:29:20Z",
+                        "updatedAt": "2025-04-10T03:29:20Z"
+                    }
+                },
+                "canReply": true,
+                "totalReplyCount": 1,
+                "isPublic": true
+            }
+        },
+        {
+            "kind": "youtube#commentThread",
+            "etag": "R7kyvekKDdeGFZQOgCud3VO4OoU",
+            "id": "Ugxo43LuqSaxUvW7HCt4AaABAg",
+            "snippet": {
+                "channelId": "UCs5Y5_7XK8HLDX0SLNwkd3w",
+                "videoId": "dutyOc_cAEU",
+                "topLevelComment": {
+                    "kind": "youtube#comment",
+                    "etag": "1tsqcCXGs3f_XKy4GBbXx5lLr8k",
+                    "id": "Ugxo43LuqSaxUvW7HCt4AaABAg",
+                    "snippet": {
+                        "channelId": "UCs5Y5_7XK8HLDX0SLNwkd3w",
+                        "videoId": "dutyOc_cAEU",
+                        "textDisplay": "<a href=\"https://www.youtube.com/watch?v=dutyOc_cAEU&amp;t=194\">3:14</a> I&#39;m sorry but I that&#39;s where I usually give up with coding assistants. It&#39;s almost like you have to do the work twice ! Once to compile an exhaustive prompt with all the details (at which point I can actually do the work myself) and another to verify the end result - and that&#39;s when everything works out, if a bug occurs you&#39;re much more lost than when you did it from scratch yourself. Now for writing verbose &quot;boring&quot; code like CRUD services, fine. For everything else however, AI is just a good but unpredictable search engine. But hey, that&#39;s job security right here.",
+                        "textOriginal": "3:14 I'm sorry but I that's where I usually give up with coding assistants. It's almost like you have to do the work twice ! Once to compile an exhaustive prompt with all the details (at which point I can actually do the work myself) and another to verify the end result - and that's when everything works out, if a bug occurs you're much more lost than when you did it from scratch yourself. Now for writing verbose \"boring\" code like CRUD services, fine. For everything else however, AI is just a good but unpredictable search engine. But hey, that's job security right here.",
+                        "authorDisplayName": "@Yothlan",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_mW7V3AX6XN1sOEBNu3omFnpuXyDtf-OLDk9XyQbWTzvMUo=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/@Yothlan",
+                        "authorChannelId": {
+                            "value": "UCuwPm75yDXTNCx9dym4oOsA"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 26,
+                        "publishedAt": "2025-04-11T11:54:09Z",
+                        "updatedAt": "2025-04-11T11:54:09Z"
+                    }
+                },
+                "canReply": true,
+                "totalReplyCount": 0,
+                "isPublic": true
+            }
+        },
+        {
+            "kind": "youtube#commentThread",
+            "etag": "XuM-0ZJoT16qhS8e9GQnsHARu3I",
+            "id": "UgxW3BXOiZQlUufWwSx4AaABAg",
+            "snippet": {
+                "channelId": "UCs5Y5_7XK8HLDX0SLNwkd3w",
+                "videoId": "dutyOc_cAEU",
+                "topLevelComment": {
+                    "kind": "youtube#comment",
+                    "etag": "_ghm901EO83XdAlfGyhdR3PqyyU",
+                    "id": "UgxW3BXOiZQlUufWwSx4AaABAg",
+                    "snippet": {
+                        "channelId": "UCs5Y5_7XK8HLDX0SLNwkd3w",
+                        "videoId": "dutyOc_cAEU",
+                        "textDisplay": "Excellent demonstration of what is happening and what is coming fast in software development",
+                        "textOriginal": "Excellent demonstration of what is happening and what is coming fast in software development",
+                        "authorDisplayName": "@DougToppin",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_mlMuar6JNNmWP0UgQocCSF-oEFKxIQIJTa3GxX9d_QljM=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/@DougToppin",
+                        "authorChannelId": {
+                            "value": "UCE-sqJrsswpqkEBl_M2N5Hg"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 16,
+                        "publishedAt": "2025-04-10T01:16:40Z",
+                        "updatedAt": "2025-04-10T01:16:40Z"
+                    }
+                },
+                "canReply": true,
+                "totalReplyCount": 1,
+                "isPublic": true
+            }
+        },
+        {
+            "kind": "youtube#commentThread",
+            "etag": "jJ6PTgUBVoqADPeOgSaGRqjHZZI",
+            "id": "UgxZfwkM9oKzU8ghxyx4AaABAg",
+            "snippet": {
+                "channelId": "UCs5Y5_7XK8HLDX0SLNwkd3w",
+                "videoId": "dutyOc_cAEU",
+                "topLevelComment": {
+                    "kind": "youtube#comment",
+                    "etag": "8mh8idrB3wQzNCF-vwm8BJEKPb8",
+                    "id": "UgxZfwkM9oKzU8ghxyx4AaABAg",
+                    "snippet": {
+                        "channelId": "UCs5Y5_7XK8HLDX0SLNwkd3w",
+                        "videoId": "dutyOc_cAEU",
+                        "textDisplay": "I love that guy&#39;s narration skills! Would happy to learn more with him. Thanks!",
+                        "textOriginal": "I love that guy's narration skills! Would happy to learn more with him. Thanks!",
+                        "authorDisplayName": "@coolinark",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_mDicUWbrw2sxlEhGS_L2dXnnkA6MItB561wtmk4y0=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/@coolinark",
+                        "authorChannelId": {
+                            "value": "UC-c5ou_KSqwlusiL78AGC_w"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 96,
+                        "publishedAt": "2025-04-09T20:28:51Z",
+                        "updatedAt": "2025-04-09T20:28:51Z"
+                    }
+                },
+                "canReply": true,
+                "totalReplyCount": 1,
+                "isPublic": true
+            }
+        },
+        {
+            "kind": "youtube#commentThread",
+            "etag": "mUBWMSWxUybpt-G2IFUYE81kQSk",
+            "id": "UgwhivtjqWcN3iscFUh4AaABAg",
+            "snippet": {
+                "channelId": "UCs5Y5_7XK8HLDX0SLNwkd3w",
+                "videoId": "dutyOc_cAEU",
+                "topLevelComment": {
+                    "kind": "youtube#comment",
+                    "etag": "OWQZEYjN6YKBfGH0dQXQes0GVHw",
+                    "id": "UgwhivtjqWcN3iscFUh4AaABAg",
+                    "snippet": {
+                        "channelId": "UCs5Y5_7XK8HLDX0SLNwkd3w",
+                        "videoId": "dutyOc_cAEU",
+                        "textDisplay": "What a time to be alive. Great video, Burke!",
+                        "textOriginal": "What a time to be alive. Great video, Burke!",
+                        "authorDisplayName": "@seanodotcom",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_k7njggXlVVHlwyn3Irpk1GGhQ5O6ZafWFCYVLuRPePpg=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/@seanodotcom",
+                        "authorChannelId": {
+                            "value": "UCt6vYTp5wlEzqaHa3lIlEdA"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 11,
+                        "publishedAt": "2025-04-10T16:45:50Z",
+                        "updatedAt": "2025-04-10T16:45:50Z"
+                    }
+                },
+                "canReply": true,
+                "totalReplyCount": 1,
+                "isPublic": true
+            }
+        },
+        {
+            "kind": "youtube#commentThread",
+            "etag": "BLomlIqgcDcLjegW-4wSAFCWwC0",
+            "id": "UgwV9qOxpkqSjs4_POF4AaABAg",
+            "snippet": {
+                "channelId": "UCs5Y5_7XK8HLDX0SLNwkd3w",
+                "videoId": "dutyOc_cAEU",
+                "topLevelComment": {
+                    "kind": "youtube#comment",
+                    "etag": "Ke7JG0p3_rXdDwuPBPjoZrXrmTo",
+                    "id": "UgwV9qOxpkqSjs4_POF4AaABAg",
+                    "snippet": {
+                        "channelId": "UCs5Y5_7XK8HLDX0SLNwkd3w",
+                        "videoId": "dutyOc_cAEU",
+                        "textDisplay": "that was a super smart move, creating a requirements document with best practices and everything 🤯",
+                        "textOriginal": "that was a super smart move, creating a requirements document with best practices and everything 🤯",
+                        "authorDisplayName": "@erickballesteros4531",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_l9Hnv2e4xg9DxDpIQglIo0bw3pc2GkvZuWGTekKy-zSFc=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/@erickballesteros4531",
+                        "authorChannelId": {
+                            "value": "UCPvTJKW4WCE7XsYtC_BKTag"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 3,
+                        "publishedAt": "2025-04-11T03:41:04Z",
+                        "updatedAt": "2025-04-11T03:41:04Z"
+                    }
+                },
+                "canReply": true,
+                "totalReplyCount": 0,
+                "isPublic": true
+            }
+        },
+        {
+            "kind": "youtube#commentThread",
+            "etag": "xpjrpMQRlRGTASuafss80jRlIaI",
+            "id": "UgwHA0xrbe_Zc6WL-cR4AaABAg",
+            "snippet": {
+                "channelId": "UCs5Y5_7XK8HLDX0SLNwkd3w",
+                "videoId": "dutyOc_cAEU",
+                "topLevelComment": {
+                    "kind": "youtube#comment",
+                    "etag": "QE2xXUTJakcXxzDJgMBhaEEEsiU",
+                    "id": "UgwHA0xrbe_Zc6WL-cR4AaABAg",
+                    "snippet": {
+                        "channelId": "UCs5Y5_7XK8HLDX0SLNwkd3w",
+                        "videoId": "dutyOc_cAEU",
+                        "textDisplay": "What a great demo man !! You guys have done a lot of work. I am stunned.",
+                        "textOriginal": "What a great demo man !! You guys have done a lot of work. I am stunned.",
+                        "authorDisplayName": "@hiteshagja24",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_mqQVvRTWwaH_wRp8ZdKwOVIS5cwpybVYHXQNOfwi2Fb9w=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/@hiteshagja24",
+                        "authorChannelId": {
+                            "value": "UCpwaaiQm1V7E7WBg-0eYbiw"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 1,
+                        "publishedAt": "2025-04-11T06:02:08Z",
+                        "updatedAt": "2025-04-11T06:02:08Z"
+                    }
+                },
+                "canReply": true,
+                "totalReplyCount": 0,
+                "isPublic": true
+            }
+        },
+        {
+            "kind": "youtube#commentThread",
+            "etag": "GJ9NBLbY3tcDf0Irk3wq418rNtk",
+            "id": "UgzANlepO9JkbQEONsJ4AaABAg",
+            "snippet": {
+                "channelId": "UCs5Y5_7XK8HLDX0SLNwkd3w",
+                "videoId": "dutyOc_cAEU",
+                "topLevelComment": {
+                    "kind": "youtube#comment",
+                    "etag": "s1poxC5vlj1YiFiVMrBv3WwKMm8",
+                    "id": "UgzANlepO9JkbQEONsJ4AaABAg",
+                    "snippet": {
+                        "channelId": "UCs5Y5_7XK8HLDX0SLNwkd3w",
+                        "videoId": "dutyOc_cAEU",
+                        "textDisplay": "My main concern is that our role will become to be more a Supervisor than a developer itself. The magic of development was to do it on my own...",
+                        "textOriginal": "My main concern is that our role will become to be more a Supervisor than a developer itself. The magic of development was to do it on my own...",
+                        "authorDisplayName": "@headderr",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_mEshF9d_TpZDTlkng5B0ZlX6-p9TNj_TO4c2tqiXp6OQ=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/@headderr",
+                        "authorChannelId": {
+                            "value": "UCPS6l22CkVlE0RuHp9hDF8Q"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 87,
+                        "publishedAt": "2025-04-10T09:43:37Z",
+                        "updatedAt": "2025-04-10T09:51:57Z"
+                    }
+                },
+                "canReply": true,
+                "totalReplyCount": 12,
+                "isPublic": true
+            }
+        },
+        {
+            "kind": "youtube#commentThread",
+            "etag": "mptVHsjNI7FuFhfPTf7ImrbguzI",
+            "id": "Ugwl9xm9WZymYWpw9np4AaABAg",
+            "snippet": {
+                "channelId": "UCs5Y5_7XK8HLDX0SLNwkd3w",
+                "videoId": "dutyOc_cAEU",
+                "topLevelComment": {
+                    "kind": "youtube#comment",
+                    "etag": "npTQf5IVteuAkXWAftcEk4U1bM4",
+                    "id": "Ugwl9xm9WZymYWpw9np4AaABAg",
+                    "snippet": {
+                        "channelId": "UCs5Y5_7XK8HLDX0SLNwkd3w",
+                        "videoId": "dutyOc_cAEU",
+                        "textDisplay": "It&#39;s hard to understate just how significant this is. In the space of a day with a tech stack that I&#39;m only loosely familiar with, I built an entire leave booking system that integrates with Entra ID, can run in Docker (or note), has the concept of managers and admins for dealing with leave approval using application roles (and the /directReports Graph endpoint), can email notifications and create out of office calendar appointments via the Graph API. Previously building something like this would have taken many weeks, and possibly never have happened due to the time commitments to learning things from scratch.",
+                        "textOriginal": "It's hard to understate just how significant this is. In the space of a day with a tech stack that I'm only loosely familiar with, I built an entire leave booking system that integrates with Entra ID, can run in Docker (or note), has the concept of managers and admins for dealing with leave approval using application roles (and the /directReports Graph endpoint), can email notifications and create out of office calendar appointments via the Graph API. Previously building something like this would have taken many weeks, and possibly never have happened due to the time commitments to learning things from scratch.",
+                        "authorDisplayName": "@justrobin1234",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/IkbzPzdC8D-nML-GX1vztDbvM65STI8SA0d5C9KGM_RF4Tn-gV4x08LnYE6cn1M3QQeLpqg1Dw=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/@justrobin1234",
+                        "authorChannelId": {
+                            "value": "UCqeCz0UJxRNm--WtPXY_DDg"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 2,
+                        "publishedAt": "2025-04-11T06:20:33Z",
+                        "updatedAt": "2025-04-11T06:21:21Z"
+                    }
+                },
+                "canReply": true,
+                "totalReplyCount": 0,
+                "isPublic": true
+            }
+        },
+        {
+            "kind": "youtube#commentThread",
+            "etag": "cmhFRhe1Mgui5kBJwXy6-bDZw8c",
+            "id": "UgznNRsZaQJXNV5uMVJ4AaABAg",
+            "snippet": {
+                "channelId": "UCs5Y5_7XK8HLDX0SLNwkd3w",
+                "videoId": "dutyOc_cAEU",
+                "topLevelComment": {
+                    "kind": "youtube#comment",
+                    "etag": "4FXA4s9TefSEOZaes5eDL0HFQ8k",
+                    "id": "UgznNRsZaQJXNV5uMVJ4AaABAg",
+                    "snippet": {
+                        "channelId": "UCs5Y5_7XK8HLDX0SLNwkd3w",
+                        "videoId": "dutyOc_cAEU",
+                        "textDisplay": "Last question was so good. Now we have all those capabilities, all that AI. But what will you build? haha that&#39;s so good.<br>Technology moves so crazy fast! Thank you Visual Studio Code, thank you Burke Holland",
+                        "textOriginal": "Last question was so good. Now we have all those capabilities, all that AI. But what will you build? haha that's so good.\nTechnology moves so crazy fast! Thank you Visual Studio Code, thank you Burke Holland",
+                        "authorDisplayName": "@GafiCANER",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_nORjyYIWeImlv59lRgvisV2wPTNRvaz6BPN6eJqOLH6WLF56Ie3Pd9ifSOmICck_CnBA=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/@GafiCANER",
+                        "authorChannelId": {
+                            "value": "UCzzOMe1WfFgjn3Bijz17-_w"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 8,
+                        "publishedAt": "2025-04-10T15:32:26Z",
+                        "updatedAt": "2025-04-10T15:32:26Z"
+                    }
+                },
+                "canReply": true,
+                "totalReplyCount": 0,
+                "isPublic": true
+            }
+        },
+        {
+            "kind": "youtube#commentThread",
+            "etag": "218gN-BggXMJHZVUgzAkdSsnrDY",
+            "id": "UgxxaeBCLQFRZ7WdKqx4AaABAg",
+            "snippet": {
+                "channelId": "UCs5Y5_7XK8HLDX0SLNwkd3w",
+                "videoId": "dutyOc_cAEU",
+                "topLevelComment": {
+                    "kind": "youtube#comment",
+                    "etag": "Ofd3LgcKxDiX8izVCI5OkGiGbuc",
+                    "id": "UgxxaeBCLQFRZ7WdKqx4AaABAg",
+                    "snippet": {
+                        "channelId": "UCs5Y5_7XK8HLDX0SLNwkd3w",
+                        "videoId": "dutyOc_cAEU",
+                        "textDisplay": "This thing is incredible and scary at same time. This could really impact devs out there",
+                        "textOriginal": "This thing is incredible and scary at same time. This could really impact devs out there",
+                        "authorDisplayName": "@theblueplanet3576",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_lDLrnbDils3e_PAEGM1_ThyLADZ-JUbOCW1Fwd191LHkhxU1u6kXIMAA-tYd7SYfJFyw=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/@theblueplanet3576",
+                        "authorChannelId": {
+                            "value": "UCh19RbvzN3vBSz4-jPa2xsg"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 24,
+                        "publishedAt": "2025-04-10T08:13:51Z",
+                        "updatedAt": "2025-04-10T08:13:51Z"
+                    }
+                },
+                "canReply": true,
+                "totalReplyCount": 4,
+                "isPublic": true
+            }
+        },
+        {
+            "kind": "youtube#commentThread",
+            "etag": "pPBp_Z7_Djv-j3R74jT8lZ6Vgr0",
+            "id": "UgyMU_IZ1chy6u9qDbB4AaABAg",
+            "snippet": {
+                "channelId": "UCs5Y5_7XK8HLDX0SLNwkd3w",
+                "videoId": "dutyOc_cAEU",
+                "topLevelComment": {
+                    "kind": "youtube#comment",
+                    "etag": "NuVxclwkhUgKj14wBe4852gyues",
+                    "id": "UgyMU_IZ1chy6u9qDbB4AaABAg",
+                    "snippet": {
+                        "channelId": "UCs5Y5_7XK8HLDX0SLNwkd3w",
+                        "videoId": "dutyOc_cAEU",
+                        "textDisplay": "We are moving at insane speeds, folks!",
+                        "textOriginal": "We are moving at insane speeds, folks!",
+                        "authorDisplayName": "@AleksandarIvanov69",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_mFO-Tekd1F7y5M3KJGdu25YNxTyo38uFd_wrskjjynvg=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/@AleksandarIvanov69",
+                        "authorChannelId": {
+                            "value": "UCDDYSVc0Bajn8vgAeznDp0w"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 140,
+                        "publishedAt": "2025-04-09T19:54:39Z",
+                        "updatedAt": "2025-04-09T19:54:39Z"
+                    }
+                },
+                "canReply": true,
+                "totalReplyCount": 5,
+                "isPublic": true
+            }
+        },
+        {
+            "kind": "youtube#commentThread",
+            "etag": "_qs156M1kRAbJ0uBW_NvcDZvc44",
+            "id": "UgyVRID4VQF5JnIMgnF4AaABAg",
+            "snippet": {
+                "channelId": "UCs5Y5_7XK8HLDX0SLNwkd3w",
+                "videoId": "dutyOc_cAEU",
+                "topLevelComment": {
+                    "kind": "youtube#comment",
+                    "etag": "M8y9tAxuQBrt32SNFjSGFyJ3zm0",
+                    "id": "UgyVRID4VQF5JnIMgnF4AaABAg",
+                    "snippet": {
+                        "channelId": "UCs5Y5_7XK8HLDX0SLNwkd3w",
+                        "videoId": "dutyOc_cAEU",
+                        "textDisplay": "Kicked off with some vibe coding — chill start, but that last question hits different:<br>“We have everything to build. What are you gonna build?”",
+                        "textOriginal": "Kicked off with some vibe coding — chill start, but that last question hits different:\n“We have everything to build. What are you gonna build?”",
+                        "authorDisplayName": "@vaibhavmishra1377",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_njrhB3lsnk7CTl-a17pFZ6yw3IoJmyXPjFxPh5YNuIU-Pi=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/@vaibhavmishra1377",
+                        "authorChannelId": {
+                            "value": "UClVWgaWA_QS5sz7J8tj6hIg"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 2,
+                        "publishedAt": "2025-04-11T15:49:32Z",
+                        "updatedAt": "2025-04-11T15:49:32Z"
+                    }
+                },
+                "canReply": true,
+                "totalReplyCount": 0,
+                "isPublic": true
+            }
+        },
+        {
+            "kind": "youtube#commentThread",
+            "etag": "UyfNJZkupU6wcRl33QcELHxweiI",
+            "id": "UgyO53CHRl8StbOx1kx4AaABAg",
+            "snippet": {
+                "channelId": "UCs5Y5_7XK8HLDX0SLNwkd3w",
+                "videoId": "dutyOc_cAEU",
+                "topLevelComment": {
+                    "kind": "youtube#comment",
+                    "etag": "rNY-nHljzvO83W0ghO2R7OtlEeQ",
+                    "id": "UgyO53CHRl8StbOx1kx4AaABAg",
+                    "snippet": {
+                        "channelId": "UCs5Y5_7XK8HLDX0SLNwkd3w",
+                        "videoId": "dutyOc_cAEU",
+                        "textDisplay": "I&#39;ve been using &#39;Augment&#39; within VS Code, after having used Windsurf and not getting on to well with Cursor,  and I am/was very impressed with it - but seeing your demo, i am going to give this a try as it looks good! Keeping my eyes peeled for your future vids and updates!",
+                        "textOriginal": "I've been using 'Augment' within VS Code, after having used Windsurf and not getting on to well with Cursor,  and I am/was very impressed with it - but seeing your demo, i am going to give this a try as it looks good! Keeping my eyes peeled for your future vids and updates!",
+                        "authorDisplayName": "@themarksmith",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_k3gLnnSA-JtMTsJMCh58JWNNAU_0-JDeansbkz71PINrzW=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/@themarksmith",
+                        "authorChannelId": {
+                            "value": "UCkqUblGXGBoAl_7wnf1xKew"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 35,
+                        "publishedAt": "2025-04-09T19:53:35Z",
+                        "updatedAt": "2025-04-09T19:53:35Z"
+                    }
+                },
+                "canReply": true,
+                "totalReplyCount": 4,
+                "isPublic": true
+            }
+        },
+        {
+            "kind": "youtube#commentThread",
+            "etag": "xks5gwnJwnyJNuCFzwpgPg9dA50",
+            "id": "Ugw_NZQ7F5ESkua3h_h4AaABAg",
+            "snippet": {
+                "channelId": "UCs5Y5_7XK8HLDX0SLNwkd3w",
+                "videoId": "dutyOc_cAEU",
+                "topLevelComment": {
+                    "kind": "youtube#comment",
+                    "etag": "Qiu4-Q7MFOCfxVIHsvsVp7J1g-A",
+                    "id": "Ugw_NZQ7F5ESkua3h_h4AaABAg",
+                    "snippet": {
+                        "channelId": "UCs5Y5_7XK8HLDX0SLNwkd3w",
+                        "videoId": "dutyOc_cAEU",
+                        "textDisplay": "сижу уже больше года с платным копайлотом.<br><br>пробовал и edits и agent на разных моделях - по итогу, всегда больше времени уходит на анализ, исправление и доработку того, что он генерирует, чем если делать самому.<br><br>пробовал на реальных не шаблонных задачах - и на комплексных, и на мелких.<br><br>по итогу - всегда быстрее и проще сделать изначально сразу самому нормально, чем дорабатывать за нейросетью.<br><br>вот в обычном режиме редактирования польза есть - работает как умный т9 - написание шаблонного кода реально ускоряется.<br><br>также, как справочник - очень полезен - освежить память или накидать разных вариантов реализаций - часто намного быстрее и удобнее, чем гуглить по старинке.<br><br>поэтому, не понимаю восторгов по поводу агентов - разве что доверять максимально шаблонные задачи и без проверки отправлять в продакшн - но так и раньше можно было - бездумно копипастить статьи и стековерфлоу - лишь бы работало.",
+                        "textOriginal": "сижу уже больше года с платным копайлотом.\n\nпробовал и edits и agent на разных моделях - по итогу, всегда больше времени уходит на анализ, исправление и доработку того, что он генерирует, чем если делать самому.\n\nпробовал на реальных не шаблонных задачах - и на комплексных, и на мелких.\n\nпо итогу - всегда быстрее и проще сделать изначально сразу самому нормально, чем дорабатывать за нейросетью.\n\nвот в обычном режиме редактирования польза есть - работает как умный т9 - написание шаблонного кода реально ускоряется.\n\nтакже, как справочник - очень полезен - освежить память или накидать разных вариантов реализаций - часто намного быстрее и удобнее, чем гуглить по старинке.\n\nпоэтому, не понимаю восторгов по поводу агентов - разве что доверять максимально шаблонные задачи и без проверки отправлять в продакшн - но так и раньше можно было - бездумно копипастить статьи и стековерфлоу - лишь бы работало.",
+                        "authorDisplayName": "@dront111",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_m9sgiQlPZ2lmkzuDdb6m_zev64prjNMQ2e8cglxR4=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/@dront111",
+                        "authorChannelId": {
+                            "value": "UCfUE1L7Ekbu0PEZXHwK67Vw"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 8,
+                        "publishedAt": "2025-04-09T20:02:04Z",
+                        "updatedAt": "2025-04-09T20:09:06Z"
+                    }
+                },
+                "canReply": true,
+                "totalReplyCount": 1,
+                "isPublic": true
+            }
+        },
+        {
+            "kind": "youtube#commentThread",
+            "etag": "37Xh-kr15uGP-qQPizH0qjwLMQ4",
+            "id": "Ugzwb8QOKN58E68LaC14AaABAg",
+            "snippet": {
+                "channelId": "UCs5Y5_7XK8HLDX0SLNwkd3w",
+                "videoId": "dutyOc_cAEU",
+                "topLevelComment": {
+                    "kind": "youtube#comment",
+                    "etag": "I-wxvsXbXis3PaXPfJNzz0sKgzs",
+                    "id": "Ugzwb8QOKN58E68LaC14AaABAg",
+                    "snippet": {
+                        "channelId": "UCs5Y5_7XK8HLDX0SLNwkd3w",
+                        "videoId": "dutyOc_cAEU",
+                        "textDisplay": "Amazing video! Def one of my favs! I&#39;m going to have to watch this a few times to make sure it sinks in. Thanks for explaining things in a beginner friendly, simple and easy to understand manner from the perspective of a true beginner and not an experienced person trying to explain things in a way they think a beginner can understand. Thanks again!",
+                        "textOriginal": "Amazing video! Def one of my favs! I'm going to have to watch this a few times to make sure it sinks in. Thanks for explaining things in a beginner friendly, simple and easy to understand manner from the perspective of a true beginner and not an experienced person trying to explain things in a way they think a beginner can understand. Thanks again!",
+                        "authorDisplayName": "@John-e7g5r",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_lOLm-ghLUyNeR63dHQLSJT7oFA7-F0BvqAJOjYEsiDZh4OjaFpfbdHReaGhCF6aq9AXw=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/@John-e7g5r",
+                        "authorChannelId": {
+                            "value": "UCqk68XyVQ13dqV_cG2CYt1w"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 1,
+                        "publishedAt": "2025-04-10T12:05:14Z",
+                        "updatedAt": "2025-04-10T12:05:14Z"
+                    }
+                },
+                "canReply": true,
+                "totalReplyCount": 0,
+                "isPublic": true
+            }
+        },
+        {
+            "kind": "youtube#commentThread",
+            "etag": "pTUzmquE10GU7LZDe86W15-B7Tg",
+            "id": "UgwdiD_OcQf4ennKNFx4AaABAg",
+            "snippet": {
+                "channelId": "UCs5Y5_7XK8HLDX0SLNwkd3w",
+                "videoId": "dutyOc_cAEU",
+                "topLevelComment": {
+                    "kind": "youtube#comment",
+                    "etag": "gIxYpL3eTVFbN25uNg1TKN3tDdU",
+                    "id": "UgwdiD_OcQf4ennKNFx4AaABAg",
+                    "snippet": {
+                        "channelId": "UCs5Y5_7XK8HLDX0SLNwkd3w",
+                        "videoId": "dutyOc_cAEU",
+                        "textDisplay": "I have using it, for last 3-4 days and it&#39;s super awesome, the only thing I haven&#39;t tried is MCP server, other than that I have tried everything and it&#39;s awesome.<br>I really wanted VS code to come up with this because honestly I really don&#39;t want to use this forked versions say cursor or something.<br>Thanks a lot ♥️🙏",
+                        "textOriginal": "I have using it, for last 3-4 days and it's super awesome, the only thing I haven't tried is MCP server, other than that I have tried everything and it's awesome.\nI really wanted VS code to come up with this because honestly I really don't want to use this forked versions say cursor or something.\nThanks a lot ♥️🙏",
+                        "authorDisplayName": "@abhishekchatterjee5609",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_lF50hUQ8IkO1WQs8HnW4lwoE4FlryC0NCSpoLEoajCm1Q=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/@abhishekchatterjee5609",
+                        "authorChannelId": {
+                            "value": "UCtNqjGzGpUlWKboR0fxP0pA"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 4,
+                        "publishedAt": "2025-04-10T13:22:00Z",
+                        "updatedAt": "2025-04-10T13:22:00Z"
+                    }
+                },
+                "canReply": true,
+                "totalReplyCount": 0,
+                "isPublic": true
+            }
+        },
+        {
+            "kind": "youtube#commentThread",
+            "etag": "zKT5ccaSneC9x5cLviZifjQp3J0",
+            "id": "UgwE55XLJ0x5Rnxv65d4AaABAg",
+            "snippet": {
+                "channelId": "UCs5Y5_7XK8HLDX0SLNwkd3w",
+                "videoId": "dutyOc_cAEU",
+                "topLevelComment": {
+                    "kind": "youtube#comment",
+                    "etag": "-Kfb-c-NKoDbnieIOnJt_cTliRc",
+                    "id": "UgwE55XLJ0x5Rnxv65d4AaABAg",
+                    "snippet": {
+                        "channelId": "UCs5Y5_7XK8HLDX0SLNwkd3w",
+                        "videoId": "dutyOc_cAEU",
+                        "textDisplay": "Ok, going to try this today. Was planing to try Firebase Studio today. What a time to be alive &amp; coding.",
+                        "textOriginal": "Ok, going to try this today. Was planing to try Firebase Studio today. What a time to be alive & coding.",
+                        "authorDisplayName": "@raymobula",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_kGy-bHwJ-gnO94LZLfB9ZU7x2E8rVOZCmNkY0F_hgMWg=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/@raymobula",
+                        "authorChannelId": {
+                            "value": "UCp0OAnaF_wRFQ8nbwrju5Lg"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 3,
+                        "publishedAt": "2025-04-10T16:46:40Z",
+                        "updatedAt": "2025-04-10T16:46:40Z"
+                    }
+                },
+                "canReply": true,
+                "totalReplyCount": 1,
+                "isPublic": true
+            }
+        },
+        {
+            "kind": "youtube#commentThread",
+            "etag": "QDgwFT7KN7oqUmiLfp_8qQJCDp4",
+            "id": "UgwtJOCUAaxGRB_Y0Vl4AaABAg",
+            "snippet": {
+                "channelId": "UCs5Y5_7XK8HLDX0SLNwkd3w",
+                "videoId": "dutyOc_cAEU",
+                "topLevelComment": {
+                    "kind": "youtube#comment",
+                    "etag": "9Ug-9Dl9hBUItU2TJen79QaXEeY",
+                    "id": "UgwtJOCUAaxGRB_Y0Vl4AaABAg",
+                    "snippet": {
+                        "channelId": "UCs5Y5_7XK8HLDX0SLNwkd3w",
+                        "videoId": "dutyOc_cAEU",
+                        "textDisplay": "My only concern was the lack of gemini 2.5 but I&#39;m glad I stayed till the end of the video, pretty cool stuff!",
+                        "textOriginal": "My only concern was the lack of gemini 2.5 but I'm glad I stayed till the end of the video, pretty cool stuff!",
+                        "authorDisplayName": "@BlackHayateMX",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_n5TSfWKfvDNUdRnLfofiPim7PSjiB5xM2ZBtIr7A5hdQ=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/@BlackHayateMX",
+                        "authorChannelId": {
+                            "value": "UCjQXshIcFC5fPH0ZlVL-z6g"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 31,
+                        "publishedAt": "2025-04-09T20:40:42Z",
+                        "updatedAt": "2025-04-09T20:40:42Z"
+                    }
+                },
+                "canReply": true,
+                "totalReplyCount": 2,
+                "isPublic": true
+            }
+        },
+        {
+            "kind": "youtube#commentThread",
+            "etag": "XQeHYH1IWay2LwRvPLSwPOPnDCo",
+            "id": "Ugxv64aqt0SMLnqJwlJ4AaABAg",
+            "snippet": {
+                "channelId": "UCs5Y5_7XK8HLDX0SLNwkd3w",
+                "videoId": "dutyOc_cAEU",
+                "topLevelComment": {
+                    "kind": "youtube#comment",
+                    "etag": "G80G8xAt9Ge2M4WhKkTaXYpUeVM",
+                    "id": "Ugxv64aqt0SMLnqJwlJ4AaABAg",
+                    "snippet": {
+                        "channelId": "UCs5Y5_7XK8HLDX0SLNwkd3w",
+                        "videoId": "dutyOc_cAEU",
+                        "textDisplay": "OG VS Code, I am glad we have these now.",
+                        "textOriginal": "OG VS Code, I am glad we have these now.",
+                        "authorDisplayName": "@josephmgift",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/QcmFJt1yMGpdnEz1Yw3qqAvoISx8g9Qy3d7Nf-oTt17PRkacw_QOr_gRjxZY14fZlMGPWLY5=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/@josephmgift",
+                        "authorChannelId": {
+                            "value": "UCoSQAg1y69hlprlUZrMYXUw"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 4,
+                        "publishedAt": "2025-04-10T07:55:14Z",
+                        "updatedAt": "2025-04-10T07:55:14Z"
+                    }
+                },
+                "canReply": true,
+                "totalReplyCount": 0,
+                "isPublic": true
+            }
+        },
+        {
+            "kind": "youtube#commentThread",
+            "etag": "K2xb7SOXmtVyGpnIE0HHRS3ORs8",
+            "id": "UgwIY01sQKekoHkhqzB4AaABAg",
+            "snippet": {
+                "channelId": "UCs5Y5_7XK8HLDX0SLNwkd3w",
+                "videoId": "dutyOc_cAEU",
+                "topLevelComment": {
+                    "kind": "youtube#comment",
+                    "etag": "sfs-jn6YVgegqIJZFzHgkoBfXkc",
+                    "id": "UgwIY01sQKekoHkhqzB4AaABAg",
+                    "snippet": {
+                        "channelId": "UCs5Y5_7XK8HLDX0SLNwkd3w",
+                        "videoId": "dutyOc_cAEU",
+                        "textDisplay": "This is incredible powerfull...thank you for your work❤",
+                        "textOriginal": "This is incredible powerfull...thank you for your work❤",
+                        "authorDisplayName": "@sintetico82",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_lDgY4MFAABENcvbLI8nBu-n_uU6D6ZQ4IqYeuenmkAGNQ=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/@sintetico82",
+                        "authorChannelId": {
+                            "value": "UC5FlYuKGCda4-1EIXNRLZFQ"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 4,
+                        "publishedAt": "2025-04-09T20:55:10Z",
+                        "updatedAt": "2025-04-09T20:55:10Z"
+                    }
+                },
+                "canReply": true,
+                "totalReplyCount": 0,
+                "isPublic": true
+            }
+        },
+        {
+            "kind": "youtube#commentThread",
+            "etag": "lMBaoY-Q4M0k0aTkTXDJk-5MEyg",
+            "id": "UgznQEeoZbaCH3Qftgh4AaABAg",
+            "snippet": {
+                "channelId": "UCs5Y5_7XK8HLDX0SLNwkd3w",
+                "videoId": "dutyOc_cAEU",
+                "topLevelComment": {
+                    "kind": "youtube#comment",
+                    "etag": "AUMlqzCX8-_DlTcW-vOU7OY_4Tw",
+                    "id": "UgznQEeoZbaCH3Qftgh4AaABAg",
+                    "snippet": {
+                        "channelId": "UCs5Y5_7XK8HLDX0SLNwkd3w",
+                        "videoId": "dutyOc_cAEU",
+                        "textDisplay": "Excellent! Thank you very much for the video. Very interesting and useful. ❤  I feel you are not only a professional coder, but a video blogger too.",
+                        "textOriginal": "Excellent! Thank you very much for the video. Very interesting and useful. ❤  I feel you are not only a professional coder, but a video blogger too.",
+                        "authorDisplayName": "@selub1058",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/jHP3shQ-LrW9P9eh_3WUIIs3NqWCyeuYza_hRZ4xu8dM0sa8Sob7Xty3mcLrMcYjA6c6KZDk9g=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/@selub1058",
+                        "authorChannelId": {
+                            "value": "UC4_WjSZrAwgYZ-0D-sQ127A"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 0,
+                        "publishedAt": "2025-04-11T02:36:00Z",
+                        "updatedAt": "2025-04-11T02:39:40Z"
+                    }
+                },
+                "canReply": true,
+                "totalReplyCount": 0,
+                "isPublic": true
+            }
+        },
+        {
+            "kind": "youtube#commentThread",
+            "etag": "UIgN3LmZgFNUSq-VcU6pqH7jgAk",
+            "id": "UgzVlZgOTBg9fPTuOph4AaABAg",
+            "snippet": {
+                "channelId": "UCs5Y5_7XK8HLDX0SLNwkd3w",
+                "videoId": "dutyOc_cAEU",
+                "topLevelComment": {
+                    "kind": "youtube#comment",
+                    "etag": "Up9Wpq0DfXJvWhIShfj9Hl4QuEE",
+                    "id": "UgzVlZgOTBg9fPTuOph4AaABAg",
+                    "snippet": {
+                        "channelId": "UCs5Y5_7XK8HLDX0SLNwkd3w",
+                        "videoId": "dutyOc_cAEU",
+                        "textDisplay": "I&#39;ll wait for the Fireship video",
+                        "textOriginal": "I'll wait for the Fireship video",
+                        "authorDisplayName": "@abdelrahmanrashwan1312",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_m80oql3c5DfNy1msTgH0b-1FhRN06D8CgLKtXzgLvL-bU=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/@abdelrahmanrashwan1312",
+                        "authorChannelId": {
+                            "value": "UCRS-QJJgOh1DHnZPPUcEUaQ"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 24,
+                        "publishedAt": "2025-04-10T15:48:47Z",
+                        "updatedAt": "2025-04-10T15:48:47Z"
+                    }
+                },
+                "canReply": true,
+                "totalReplyCount": 1,
+                "isPublic": true
+            }
+        },
+        {
+            "kind": "youtube#commentThread",
+            "etag": "EbWqK58WnXQ2RV0H84hPKIjJQtY",
+            "id": "Ugwrvz8LjamA9iszmlZ4AaABAg",
+            "snippet": {
+                "channelId": "UCs5Y5_7XK8HLDX0SLNwkd3w",
+                "videoId": "dutyOc_cAEU",
+                "topLevelComment": {
+                    "kind": "youtube#comment",
+                    "etag": "mYRMe-U406baBqKmXbpNHvVwZIQ",
+                    "id": "Ugwrvz8LjamA9iszmlZ4AaABAg",
+                    "snippet": {
+                        "channelId": "UCs5Y5_7XK8HLDX0SLNwkd3w",
+                        "videoId": "dutyOc_cAEU",
+                        "textDisplay": "For all those saying Cursor (had not go around to trying it) had you all seen Roo and Cline? I&#39;m just curious because it seems like things are moving so fast that camps are forming and people aren&#39;t even aware of other things to check out (like myself and Cursor). I&#39;m now interested to see what this is going to get me or over Roo or Cline.",
+                        "textOriginal": "For all those saying Cursor (had not go around to trying it) had you all seen Roo and Cline? I'm just curious because it seems like things are moving so fast that camps are forming and people aren't even aware of other things to check out (like myself and Cursor). I'm now interested to see what this is going to get me or over Roo or Cline.",
+                        "authorDisplayName": "@storm14k",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_mpD1cx-eyUFjpnmNGYVBbWYkq5Y67Tq8a5KV-LhpI=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/@storm14k",
+                        "authorChannelId": {
+                            "value": "UCrWzkqYOHbeTGHXHgbs5TzQ"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 5,
+                        "publishedAt": "2025-04-10T13:04:53Z",
+                        "updatedAt": "2025-04-10T13:04:53Z"
+                    }
+                },
+                "canReply": true,
+                "totalReplyCount": 0,
+                "isPublic": true
+            }
+        },
+        {
+            "kind": "youtube#commentThread",
+            "etag": "b5uhq40ljYwKqMJcCFvrK0usn2k",
+            "id": "UgwtklU6AqfHEvg2RB94AaABAg",
+            "snippet": {
+                "channelId": "UCs5Y5_7XK8HLDX0SLNwkd3w",
+                "videoId": "dutyOc_cAEU",
+                "topLevelComment": {
+                    "kind": "youtube#comment",
+                    "etag": "gMdMddmIoVlrHZh_83856TYeS_E",
+                    "id": "UgwtklU6AqfHEvg2RB94AaABAg",
+                    "snippet": {
+                        "channelId": "UCs5Y5_7XK8HLDX0SLNwkd3w",
+                        "videoId": "dutyOc_cAEU",
+                        "textDisplay": "Love the Lego set on the back ! <br>Thanks for the video, and the team for the features !",
+                        "textOriginal": "Love the Lego set on the back ! \nThanks for the video, and the team for the features !",
+                        "authorDisplayName": "@raphpay",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_ngJur-o4-R7zX6rXKwMYnaQHIhq65PD-S3so9HH7bPaQ=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/@raphpay",
+                        "authorChannelId": {
+                            "value": "UCWuWgfdXqbdOjEy3-rmTLIg"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 0,
+                        "publishedAt": "2025-04-11T04:11:58Z",
+                        "updatedAt": "2025-04-11T04:11:58Z"
+                    }
+                },
+                "canReply": true,
+                "totalReplyCount": 0,
+                "isPublic": true
+            }
+        },
+        {
+            "kind": "youtube#commentThread",
+            "etag": "mXp5o7hfmUZyMslPan1Guqlrb5s",
+            "id": "Ugwd4gqkSdMDByvTiqp4AaABAg",
+            "snippet": {
+                "channelId": "UCs5Y5_7XK8HLDX0SLNwkd3w",
+                "videoId": "dutyOc_cAEU",
+                "topLevelComment": {
+                    "kind": "youtube#comment",
+                    "etag": "5n2-Wyc0d1Ieh9NyevATTzIDqz0",
+                    "id": "Ugwd4gqkSdMDByvTiqp4AaABAg",
+                    "snippet": {
+                        "channelId": "UCs5Y5_7XK8HLDX0SLNwkd3w",
+                        "videoId": "dutyOc_cAEU",
+                        "textDisplay": "Wonderful recap video! Lots of new features to catch up on",
+                        "textOriginal": "Wonderful recap video! Lots of new features to catch up on",
+                        "authorDisplayName": "@InfiniteCuriousity",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_mxoHLYg2WeeK_M9oUkvAf1jTZ3BhEjo0-OBaCCu8SV618=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/@InfiniteCuriousity",
+                        "authorChannelId": {
+                            "value": "UCSyyWeYEu1cQuZiUM3sw9xA"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 2,
+                        "publishedAt": "2025-04-09T23:35:36Z",
+                        "updatedAt": "2025-04-09T23:42:16Z"
+                    }
+                },
+                "canReply": true,
+                "totalReplyCount": 0,
+                "isPublic": true
+            }
+        },
+        {
+            "kind": "youtube#commentThread",
+            "etag": "5dL_N7Qy4RWbLpLf-lTjJ6YRB2E",
+            "id": "Ugzj5CthabicjB0RQIl4AaABAg",
+            "snippet": {
+                "channelId": "UCs5Y5_7XK8HLDX0SLNwkd3w",
+                "videoId": "dutyOc_cAEU",
+                "topLevelComment": {
+                    "kind": "youtube#comment",
+                    "etag": "a2gMlvnb7wq0bmLD5efo3GzL-kw",
+                    "id": "Ugzj5CthabicjB0RQIl4AaABAg",
+                    "snippet": {
+                        "channelId": "UCs5Y5_7XK8HLDX0SLNwkd3w",
+                        "videoId": "dutyOc_cAEU",
+                        "textDisplay": "Great stuff! Excited to try out agent mode and bringing in other models including Ollama.",
+                        "textOriginal": "Great stuff! Excited to try out agent mode and bringing in other models including Ollama.",
+                        "authorDisplayName": "@nickytonline",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_nl8e5DOvydJTGnkU9qh4qNpGbW0uEl2uxkX_gkQxHsiek=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/@nickytonline",
+                        "authorChannelId": {
+                            "value": "UCBLlEq0co24VFJIMEHNcPOQ"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 1,
+                        "publishedAt": "2025-04-10T12:28:12Z",
+                        "updatedAt": "2025-04-10T12:28:12Z"
+                    }
+                },
+                "canReply": true,
+                "totalReplyCount": 1,
+                "isPublic": true
+            }
+        },
+        {
+            "kind": "youtube#commentThread",
+            "etag": "hWTEW7xG4_bTgZE_elMaAf2bcDA",
+            "id": "UgzqIi0OyHTdtOT9IxF4AaABAg",
+            "snippet": {
+                "channelId": "UCs5Y5_7XK8HLDX0SLNwkd3w",
+                "videoId": "dutyOc_cAEU",
+                "topLevelComment": {
+                    "kind": "youtube#comment",
+                    "etag": "ZcX6ZI3aalLDnYuE7NfWLyb4-gE",
+                    "id": "UgzqIi0OyHTdtOT9IxF4AaABAg",
+                    "snippet": {
+                        "channelId": "UCs5Y5_7XK8HLDX0SLNwkd3w",
+                        "videoId": "dutyOc_cAEU",
+                        "textDisplay": "Ok guys, it’s official: THE BEGINNING OF THE END.",
+                        "textOriginal": "Ok guys, it’s official: THE BEGINNING OF THE END.",
+                        "authorDisplayName": "@frederico-kluser",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/sEeHtbtk0vRVxRIDByq7LOSj6fV4DAC4G33Et2S2PIKLegHBjz44DUeLYJNVzCLijgEiQ-x-pA=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/@frederico-kluser",
+                        "authorChannelId": {
+                            "value": "UCqMCV3Id2o6matkq5FSKwag"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 11,
+                        "publishedAt": "2025-04-10T04:46:00Z",
+                        "updatedAt": "2025-04-10T04:46:00Z"
+                    }
+                },
+                "canReply": true,
+                "totalReplyCount": 0,
+                "isPublic": true
+            }
+        },
+        {
+            "kind": "youtube#commentThread",
+            "etag": "8YJgOJfzQrZpZmpak9CbyBlQ4p0",
+            "id": "Ugz3SR4gJyOgqUbixIp4AaABAg",
+            "snippet": {
+                "channelId": "UCs5Y5_7XK8HLDX0SLNwkd3w",
+                "videoId": "dutyOc_cAEU",
+                "topLevelComment": {
+                    "kind": "youtube#comment",
+                    "etag": "D96M8hE9Xob3NMl95JwOqGIMl4k",
+                    "id": "Ugz3SR4gJyOgqUbixIp4AaABAg",
+                    "snippet": {
+                        "channelId": "UCs5Y5_7XK8HLDX0SLNwkd3w",
+                        "videoId": "dutyOc_cAEU",
+                        "textDisplay": "Aaand, ...I am finally getting what is the all hype about MCPs 😄<br>Thanks!",
+                        "textOriginal": "Aaand, ...I am finally getting what is the all hype about MCPs 😄\nThanks!",
+                        "authorDisplayName": "@OleksaBaida",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_kvq6PCG9sHZasDV_7SRwvLCd5Fofh81OLOq_OnAh2xaTI=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/@OleksaBaida",
+                        "authorChannelId": {
+                            "value": "UCsgjXGfrKuBqTGgUXHa_ZrQ"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 1,
+                        "publishedAt": "2025-04-11T07:19:18Z",
+                        "updatedAt": "2025-04-11T07:19:18Z"
+                    }
+                },
+                "canReply": true,
+                "totalReplyCount": 0,
+                "isPublic": true
+            }
+        },
+        {
+            "kind": "youtube#commentThread",
+            "etag": "OrQPkWjFINWTOlbcC56bMBekjRo",
+            "id": "Ugw0K5SUj3p2HtMzZy54AaABAg",
+            "snippet": {
+                "channelId": "UCs5Y5_7XK8HLDX0SLNwkd3w",
+                "videoId": "dutyOc_cAEU",
+                "topLevelComment": {
+                    "kind": "youtube#comment",
+                    "etag": "_n7x43IzElEZeu2aP7gtIyuJaXg",
+                    "id": "Ugw0K5SUj3p2HtMzZy54AaABAg",
+                    "snippet": {
+                        "channelId": "UCs5Y5_7XK8HLDX0SLNwkd3w",
+                        "videoId": "dutyOc_cAEU",
+                        "textDisplay": "Vibe button??? Does it stand for “very intense build enabled”",
+                        "textOriginal": "Vibe button??? Does it stand for “very intense build enabled”",
+                        "authorDisplayName": "@tamedcrazyness",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_kEYL24S4KZAvyWNFaMjd1qAMfPlDHs0yrCzaOaqw0xCA=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/@tamedcrazyness",
+                        "authorChannelId": {
+                            "value": "UC-u0c6qa-mdmD_LAb_ssu9Q"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 18,
+                        "publishedAt": "2025-04-09T20:32:49Z",
+                        "updatedAt": "2025-04-09T20:32:49Z"
+                    }
+                },
+                "canReply": true,
+                "totalReplyCount": 1,
+                "isPublic": true
+            }
+        },
+        {
+            "kind": "youtube#commentThread",
+            "etag": "UUsFWGAVYpWj78NLRpsIDxd4GDg",
+            "id": "Ugxtlt57sMEyAuMX1sR4AaABAg",
+            "snippet": {
+                "channelId": "UCs5Y5_7XK8HLDX0SLNwkd3w",
+                "videoId": "dutyOc_cAEU",
+                "topLevelComment": {
+                    "kind": "youtube#comment",
+                    "etag": "0kc2LImDfr3GwxBw0gGXoFQ5vrY",
+                    "id": "Ugxtlt57sMEyAuMX1sR4AaABAg",
+                    "snippet": {
+                        "channelId": "UCs5Y5_7XK8HLDX0SLNwkd3w",
+                        "videoId": "dutyOc_cAEU",
+                        "textDisplay": "Anyone else &quot;not&quot; have the &quot;manage models&quot; button at the bottom?  We have all the built-in models to choose from in the dropdown, but without the manage models, we can&#39;t use a locally hosted model.",
+                        "textOriginal": "Anyone else \"not\" have the \"manage models\" button at the bottom?  We have all the built-in models to choose from in the dropdown, but without the manage models, we can't use a locally hosted model.",
+                        "authorDisplayName": "@jeepdude2009",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/ZcHXXoNyoW-IF4TQy0MrvTeA2iktSfseQdFM4PVgh7YqKb2xDI7ROpOiGJIqpqd_pG8EXVVHEDk=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/@jeepdude2009",
+                        "authorChannelId": {
+                            "value": "UCiHfAxXyL5-ndXsIxoHjX8g"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 3,
+                        "publishedAt": "2025-04-11T16:55:10Z",
+                        "updatedAt": "2025-04-11T16:55:10Z"
+                    }
+                },
+                "canReply": true,
+                "totalReplyCount": 0,
+                "isPublic": true
+            }
+        },
+        {
+            "kind": "youtube#commentThread",
+            "etag": "_etIbsvsZO70UirDtQ-OnjdqTDg",
+            "id": "UgwNgaZvfusVwNAZ8v14AaABAg",
+            "snippet": {
+                "channelId": "UCs5Y5_7XK8HLDX0SLNwkd3w",
+                "videoId": "dutyOc_cAEU",
+                "topLevelComment": {
+                    "kind": "youtube#comment",
+                    "etag": "riQ5Lgm5xRls5fG2gw1J7zIuz84",
+                    "id": "UgwNgaZvfusVwNAZ8v14AaABAg",
+                    "snippet": {
+                        "channelId": "UCs5Y5_7XK8HLDX0SLNwkd3w",
+                        "videoId": "dutyOc_cAEU",
+                        "textDisplay": "Awesome video. Explained well. Understood the real-world use case of MCP. Thank you so much!",
+                        "textOriginal": "Awesome video. Explained well. Understood the real-world use case of MCP. Thank you so much!",
+                        "authorDisplayName": "@devkasunlakshitha",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/afZj65ZzD_zQCkCdMh1PPfmbKJO02z_G4jLz5wjpgTmHPMASVwbSNUPURTbqXDt_APd90Cro0A=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/@devkasunlakshitha",
+                        "authorChannelId": {
+                            "value": "UCqhK1hbVmp_iBm7jnyGzmWQ"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 9,
+                        "publishedAt": "2025-04-10T16:25:20Z",
+                        "updatedAt": "2025-04-10T16:25:20Z"
+                    }
+                },
+                "canReply": true,
+                "totalReplyCount": 1,
+                "isPublic": true
+            }
+        },
+        {
+            "kind": "youtube#commentThread",
+            "etag": "fUBRZDyChL-D8-vcJhVG_5KIQdM",
+            "id": "Ugw-7U9lavJS53j4Jfh4AaABAg",
+            "snippet": {
+                "channelId": "UCs5Y5_7XK8HLDX0SLNwkd3w",
+                "videoId": "dutyOc_cAEU",
+                "topLevelComment": {
+                    "kind": "youtube#comment",
+                    "etag": "hRuW6c86uas7UdXF9P4l_pgWvWI",
+                    "id": "Ugw-7U9lavJS53j4Jfh4AaABAg",
+                    "snippet": {
+                        "channelId": "UCs5Y5_7XK8HLDX0SLNwkd3w",
+                        "videoId": "dutyOc_cAEU",
+                        "textDisplay": "Great video for developers <br>We need more such content on using these agents for our multiple usecases",
+                        "textOriginal": "Great video for developers \nWe need more such content on using these agents for our multiple usecases",
+                        "authorDisplayName": "@Lucky-sw8bv",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_mnFHieNq6CaY7CmvNoy-vu4NPTHc0-WHXX490DODm2azw=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/@Lucky-sw8bv",
+                        "authorChannelId": {
+                            "value": "UCAS48pFQpoOJqfJiolqFQFQ"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 0,
+                        "publishedAt": "2025-04-10T04:57:40Z",
+                        "updatedAt": "2025-04-10T04:57:40Z"
+                    }
+                },
+                "canReply": true,
+                "totalReplyCount": 0,
+                "isPublic": true
+            }
+        },
+        {
+            "kind": "youtube#commentThread",
+            "etag": "05QCjlqKqEG1biwXEzvBgqDTTJU",
+            "id": "UgxqZ2rdKOkpHbEdwFl4AaABAg",
+            "snippet": {
+                "channelId": "UCs5Y5_7XK8HLDX0SLNwkd3w",
+                "videoId": "dutyOc_cAEU",
+                "topLevelComment": {
+                    "kind": "youtube#comment",
+                    "etag": "xm4wxxl00JAnWOKhNDT7UCGzHvs",
+                    "id": "UgxqZ2rdKOkpHbEdwFl4AaABAg",
+                    "snippet": {
+                        "channelId": "UCs5Y5_7XK8HLDX0SLNwkd3w",
+                        "videoId": "dutyOc_cAEU",
+                        "textDisplay": "I don&#39;t know whether to like or dislike  where this is going. I am all for automation but these companies are literally accessing your whole code base. While I am not writing the next space shuttle&#39;s navigation program I think it is still important to keep things for ourselves!",
+                        "textOriginal": "I don't know whether to like or dislike  where this is going. I am all for automation but these companies are literally accessing your whole code base. While I am not writing the next space shuttle's navigation program I think it is still important to keep things for ourselves!",
+                        "authorDisplayName": "@rodionsabbath9722",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_nctg_EWDWJj04hbpyDFKCDKSJ_UpfPvQndYOEaU9I=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/@rodionsabbath9722",
+                        "authorChannelId": {
+                            "value": "UC4yVvmSy6hXrFKiwkY6pKeg"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 1,
+                        "publishedAt": "2025-04-11T09:10:29Z",
+                        "updatedAt": "2025-04-11T09:10:29Z"
+                    }
+                },
+                "canReply": true,
+                "totalReplyCount": 0,
+                "isPublic": true
+            }
+        },
+        {
+            "kind": "youtube#commentThread",
+            "etag": "Z56HLL5DyyNrywuSOwE4R26vNmI",
+            "id": "Ugwyagss9bnN1ccct914AaABAg",
+            "snippet": {
+                "channelId": "UCs5Y5_7XK8HLDX0SLNwkd3w",
+                "videoId": "dutyOc_cAEU",
+                "topLevelComment": {
+                    "kind": "youtube#comment",
+                    "etag": "TeTBGL1pDrIbsPcieUTC24svUZw",
+                    "id": "Ugwyagss9bnN1ccct914AaABAg",
+                    "snippet": {
+                        "channelId": "UCs5Y5_7XK8HLDX0SLNwkd3w",
+                        "videoId": "dutyOc_cAEU",
+                        "textDisplay": "Super awesome technology!<br>Please show us more usecases ❤",
+                        "textOriginal": "Super awesome technology!\nPlease show us more usecases ❤",
+                        "authorDisplayName": "@itaco8066",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_lnpRZIzp7NwAUNQ_M5wYlWUQqaDi7OwUKWWk_4BV4=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/@itaco8066",
+                        "authorChannelId": {
+                            "value": "UCSPF3lXDKueZxza00kna8Fg"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 0,
+                        "publishedAt": "2025-04-11T00:44:58Z",
+                        "updatedAt": "2025-04-11T00:44:58Z"
+                    }
+                },
+                "canReply": true,
+                "totalReplyCount": 0,
+                "isPublic": true
+            }
+        },
+        {
+            "kind": "youtube#commentThread",
+            "etag": "TIGRW2NYUw-VQqfxqoR5T3g6Sgg",
+            "id": "UgxYON79fnMRVnBMJCl4AaABAg",
+            "snippet": {
+                "channelId": "UCs5Y5_7XK8HLDX0SLNwkd3w",
+                "videoId": "dutyOc_cAEU",
+                "topLevelComment": {
+                    "kind": "youtube#comment",
+                    "etag": "DkcgDa5U76xZetVS1BgNZNTE_is",
+                    "id": "UgxYON79fnMRVnBMJCl4AaABAg",
+                    "snippet": {
+                        "channelId": "UCs5Y5_7XK8HLDX0SLNwkd3w",
+                        "videoId": "dutyOc_cAEU",
+                        "textDisplay": "Where is the Project Requirement Document (PRD) ? 😅 You said you will attach it on the description",
+                        "textOriginal": "Where is the Project Requirement Document (PRD) ? 😅 You said you will attach it on the description",
+                        "authorDisplayName": "@sharon8659",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_mF-nkggBvjqJq4EO2bY0Y4TWbgq5eI6GwE2MQdpo1x4Wk=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/@sharon8659",
+                        "authorChannelId": {
+                            "value": "UCYmMxpGaXqm9U6xlgx13wiQ"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 35,
+                        "publishedAt": "2025-04-10T13:16:34Z",
+                        "updatedAt": "2025-04-10T13:16:34Z"
+                    }
+                },
+                "canReply": true,
+                "totalReplyCount": 1,
+                "isPublic": true
+            }
+        },
+        {
+            "kind": "youtube#commentThread",
+            "etag": "3T4x7mqLqp8yDGsAj3eJsqVg9yk",
+            "id": "Ugwy_w5_lvxhf4kVJyZ4AaABAg",
+            "snippet": {
+                "channelId": "UCs5Y5_7XK8HLDX0SLNwkd3w",
+                "videoId": "dutyOc_cAEU",
+                "topLevelComment": {
+                    "kind": "youtube#comment",
+                    "etag": "iquZGLlD2-PqtKBdNEIU9cWCxIs",
+                    "id": "Ugwy_w5_lvxhf4kVJyZ4AaABAg",
+                    "snippet": {
+                        "channelId": "UCs5Y5_7XK8HLDX0SLNwkd3w",
+                        "videoId": "dutyOc_cAEU",
+                        "textDisplay": "Great features, and great video, thank you Burke!",
+                        "textOriginal": "Great features, and great video, thank you Burke!",
+                        "authorDisplayName": "@AzaB2C",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_mn2gaw9rLR64veJe1t2TkP-ZJDUThlA8BiCYeIElYFr0o=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/@AzaB2C",
+                        "authorChannelId": {
+                            "value": "UC_43jVmkhis4LBllAPboutQ"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 0,
+                        "publishedAt": "2025-04-10T20:31:30Z",
+                        "updatedAt": "2025-04-10T20:31:30Z"
+                    }
+                },
+                "canReply": true,
+                "totalReplyCount": 0,
+                "isPublic": true
+            }
+        },
+        {
+            "kind": "youtube#commentThread",
+            "etag": "K37SRKM8I9u7jJ1_w3lv76KGOTE",
+            "id": "UgwOV_vYP8xOawb34fJ4AaABAg",
+            "snippet": {
+                "channelId": "UCs5Y5_7XK8HLDX0SLNwkd3w",
+                "videoId": "dutyOc_cAEU",
+                "topLevelComment": {
+                    "kind": "youtube#comment",
+                    "etag": "LPqQ1SSG2cegpLoA1gEiqt-tMWU",
+                    "id": "UgwOV_vYP8xOawb34fJ4AaABAg",
+                    "snippet": {
+                        "channelId": "UCs5Y5_7XK8HLDX0SLNwkd3w",
+                        "videoId": "dutyOc_cAEU",
+                        "textDisplay": "For sure these are cutting edge features, i am not undermining the effort behind it. But the guys behind should give some credit to cursor or mention them as an inspiration.",
+                        "textOriginal": "For sure these are cutting edge features, i am not undermining the effort behind it. But the guys behind should give some credit to cursor or mention them as an inspiration.",
+                        "authorDisplayName": "@kiranak8430",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_lyQWnKth6gWdxn0vLIe655FaQ_GXULkmA8_zA_y0M=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/@kiranak8430",
+                        "authorChannelId": {
+                            "value": "UCGKD_cVEQIVjX4lM7FmdCIA"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 218,
+                        "publishedAt": "2025-04-09T19:32:15Z",
+                        "updatedAt": "2025-04-09T19:32:15Z"
+                    }
+                },
+                "canReply": true,
+                "totalReplyCount": 28,
+                "isPublic": true
+            }
+        },
+        {
+            "kind": "youtube#commentThread",
+            "etag": "BmV7sV8PVVoy-cumzBu3Wy7lwXE",
+            "id": "UgxFdcPWkF3cMD6yeFd4AaABAg",
+            "snippet": {
+                "channelId": "UCs5Y5_7XK8HLDX0SLNwkd3w",
+                "videoId": "dutyOc_cAEU",
+                "topLevelComment": {
+                    "kind": "youtube#comment",
+                    "etag": "l_3IOmlFet1eyrKfCjkoLVGixvE",
+                    "id": "UgxFdcPWkF3cMD6yeFd4AaABAg",
+                    "snippet": {
+                        "channelId": "UCs5Y5_7XK8HLDX0SLNwkd3w",
+                        "videoId": "dutyOc_cAEU",
+                        "textDisplay": "Very good presentation fellow OW player :) Seems like this Agent capability is going to be the next thing this year !<br><br>I&#39;d appreciate details about &quot;pricing&quot;, including how much the whole system cost, how many LLM queries are &quot;included&quot; in basic package, etc.",
+                        "textOriginal": "Very good presentation fellow OW player :) Seems like this Agent capability is going to be the next thing this year !\n\nI'd appreciate details about \"pricing\", including how much the whole system cost, how many LLM queries are \"included\" in basic package, etc.",
+                        "authorDisplayName": "@KiLVaiDeN",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_lkjfArSk9PxpWVrhVisj1d_kGf7hnwO1MGdmVS-Xs=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/@KiLVaiDeN",
+                        "authorChannelId": {
+                            "value": "UCFJWFcIDIUEm_kKFNVCjt8Q"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 0,
+                        "publishedAt": "2025-04-11T08:24:03Z",
+                        "updatedAt": "2025-04-11T08:24:03Z"
+                    }
+                },
+                "canReply": true,
+                "totalReplyCount": 0,
+                "isPublic": true
+            }
+        },
+        {
+            "kind": "youtube#commentThread",
+            "etag": "yMY7Z82PqnReP-JISZMGj8g0V3U",
+            "id": "UgyFwMO5-T5NmTPVO8t4AaABAg",
+            "snippet": {
+                "channelId": "UCs5Y5_7XK8HLDX0SLNwkd3w",
+                "videoId": "dutyOc_cAEU",
+                "topLevelComment": {
+                    "kind": "youtube#comment",
+                    "etag": "RNxz6Yj2nIjfZXS3kSnU2Nkro-M",
+                    "id": "UgyFwMO5-T5NmTPVO8t4AaABAg",
+                    "snippet": {
+                        "channelId": "UCs5Y5_7XK8HLDX0SLNwkd3w",
+                        "videoId": "dutyOc_cAEU",
+                        "textDisplay": "Great video, finally I can see the real example of using MCP for real project (not from n8n).<br>1. How can we be sure that Claude 3.5 is using Tailwind&#39;s 2024 instructions and not the 2025 version? Should we always double check what the agent suggest? I&#39;m very familiar with the documentation, so I only follow the docs when building a new project. But what about developers who aren&#39;t as familiar? I&#39;m concerned about how this affects junior developers in the future.<br>2. I also noticed that there&#39;s no PRD (Product Requirements Document) referenced in the description. Could you clarify? I want it for a reference.",
+                        "textOriginal": "Great video, finally I can see the real example of using MCP for real project (not from n8n).\n1. How can we be sure that Claude 3.5 is using Tailwind's 2024 instructions and not the 2025 version? Should we always double check what the agent suggest? I'm very familiar with the documentation, so I only follow the docs when building a new project. But what about developers who aren't as familiar? I'm concerned about how this affects junior developers in the future.\n2. I also noticed that there's no PRD (Product Requirements Document) referenced in the description. Could you clarify? I want it for a reference.",
+                        "authorDisplayName": "@dangtin277",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_kLkK1c7ktYIHduJBx4s4ixyuQdDPDKXiQRl38-w08Ekb2w=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/@dangtin277",
+                        "authorChannelId": {
+                            "value": "UCrYXIV_UhuMU5OJvksDk2ZA"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 2,
+                        "publishedAt": "2025-04-10T11:24:34Z",
+                        "updatedAt": "2025-04-10T11:24:34Z"
+                    }
+                },
+                "canReply": true,
+                "totalReplyCount": 0,
+                "isPublic": true
+            }
+        },
+        {
+            "kind": "youtube#commentThread",
+            "etag": "kVoTFUZW39go-46g4sIiqsE4V04",
+            "id": "UgymrvxrMEZE73ge0214AaABAg",
+            "snippet": {
+                "channelId": "UCs5Y5_7XK8HLDX0SLNwkd3w",
+                "videoId": "dutyOc_cAEU",
+                "topLevelComment": {
+                    "kind": "youtube#comment",
+                    "etag": "5vZtNSbE764A-fRnupRUn-ghX54",
+                    "id": "UgymrvxrMEZE73ge0214AaABAg",
+                    "snippet": {
+                        "channelId": "UCs5Y5_7XK8HLDX0SLNwkd3w",
+                        "videoId": "dutyOc_cAEU",
+                        "textDisplay": "this is really cool, thanks for sharing your wisdom and knowledge 👍",
+                        "textOriginal": "this is really cool, thanks for sharing your wisdom and knowledge 👍",
+                        "authorDisplayName": "@AndreAndraos",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_ndVH-wTnnKEX7xWTSmEy0TIeYnDbcP4BsWiW3c-x6b6Jw=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/@AndreAndraos",
+                        "authorChannelId": {
+                            "value": "UCTjqs6mti5Mq1SqHOOokvzw"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 0,
+                        "publishedAt": "2025-04-10T22:05:56Z",
+                        "updatedAt": "2025-04-10T22:05:56Z"
+                    }
+                },
+                "canReply": true,
+                "totalReplyCount": 0,
+                "isPublic": true
+            }
+        },
+        {
+            "kind": "youtube#commentThread",
+            "etag": "2dI8TD_3XO9sSbS08lIStg7is9I",
+            "id": "UgwsuNakvFssItRXgRh4AaABAg",
+            "snippet": {
+                "channelId": "UCs5Y5_7XK8HLDX0SLNwkd3w",
+                "videoId": "dutyOc_cAEU",
+                "topLevelComment": {
+                    "kind": "youtube#comment",
+                    "etag": "993JZori9b8pz-XG8E2Tl7zOmj0",
+                    "id": "UgwsuNakvFssItRXgRh4AaABAg",
+                    "snippet": {
+                        "channelId": "UCs5Y5_7XK8HLDX0SLNwkd3w",
+                        "videoId": "dutyOc_cAEU",
+                        "textDisplay": "AMAZING move with the extension market!  I mean, after seeing this video, you don&#39;t come close to cursor and windsurf, so going all monopoly on them and shutting down extensions for them, while dirty, is an effective short term move!  Near sighted, but effective for the short term!  Genius move!",
+                        "textOriginal": "AMAZING move with the extension market!  I mean, after seeing this video, you don't come close to cursor and windsurf, so going all monopoly on them and shutting down extensions for them, while dirty, is an effective short term move!  Near sighted, but effective for the short term!  Genius move!",
+                        "authorDisplayName": "@seventyfive7597",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_m98WbILG_nYilPK0OeGpLxPsC-zR57i1Hg3Y2FKjY=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/@seventyfive7597",
+                        "authorChannelId": {
+                            "value": "UCQcUYGEuxYPlkR0GZ8EiXgA"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 0,
+                        "publishedAt": "2025-04-10T21:23:47Z",
+                        "updatedAt": "2025-04-10T21:23:47Z"
+                    }
+                },
+                "canReply": true,
+                "totalReplyCount": 0,
+                "isPublic": true
+            }
+        },
+        {
+            "kind": "youtube#commentThread",
+            "etag": "PxVAsn1ZL94-UqEDolxBZL2_maY",
+            "id": "UgwZ6e3mY8JUHk-LXOZ4AaABAg",
+            "snippet": {
+                "channelId": "UCs5Y5_7XK8HLDX0SLNwkd3w",
+                "videoId": "dutyOc_cAEU",
+                "topLevelComment": {
+                    "kind": "youtube#comment",
+                    "etag": "phjJo9sfwOjptDY3zYh7mIG-1A0",
+                    "id": "UgwZ6e3mY8JUHk-LXOZ4AaABAg",
+                    "snippet": {
+                        "channelId": "UCs5Y5_7XK8HLDX0SLNwkd3w",
+                        "videoId": "dutyOc_cAEU",
+                        "textDisplay": "Looks like I can&#39;t ignore this any longer.",
+                        "textOriginal": "Looks like I can't ignore this any longer.",
+                        "authorDisplayName": "@patapon3fan",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_mUt1AkecTQSF_pFKSnNcRg-AuCIi_J_OlmbnOoBL8=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/@patapon3fan",
+                        "authorChannelId": {
+                            "value": "UCX9RxlogBQOBnnIu11M8R9g"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 3,
+                        "publishedAt": "2025-04-10T08:20:43Z",
+                        "updatedAt": "2025-04-10T08:20:43Z"
+                    }
+                },
+                "canReply": true,
+                "totalReplyCount": 1,
+                "isPublic": true
+            }
+        },
+        {
+            "kind": "youtube#commentThread",
+            "etag": "xXGe2pepZ5yrIuhW85UyH3QmEgc",
+            "id": "Ugxd9Zmm8OctHctAaiZ4AaABAg",
+            "snippet": {
+                "channelId": "UCs5Y5_7XK8HLDX0SLNwkd3w",
+                "videoId": "dutyOc_cAEU",
+                "topLevelComment": {
+                    "kind": "youtube#comment",
+                    "etag": "_CaB1ghL0AFV4_AJmNdMzodZqU4",
+                    "id": "Ugxd9Zmm8OctHctAaiZ4AaABAg",
+                    "snippet": {
+                        "channelId": "UCs5Y5_7XK8HLDX0SLNwkd3w",
+                        "videoId": "dutyOc_cAEU",
+                        "textDisplay": "that&#39;s so cool, thanks for this demo",
+                        "textOriginal": "that's so cool, thanks for this demo",
+                        "authorDisplayName": "@hossamdash",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_myJSgbX99R0T7m8fs-4o0tww8Jaio2Krhyv2it-g6YjHQ=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/@hossamdash",
+                        "authorChannelId": {
+                            "value": "UCvDpYxbRXD2d4DPYzaQp2xA"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 0,
+                        "publishedAt": "2025-04-10T22:42:10Z",
+                        "updatedAt": "2025-04-10T22:42:10Z"
+                    }
+                },
+                "canReply": true,
+                "totalReplyCount": 0,
+                "isPublic": true
+            }
+        },
+        {
+            "kind": "youtube#commentThread",
+            "etag": "lMl6n2Ulk35rBG3WVh15-yIx7yk",
+            "id": "UgyJgrrMO5TUMXPO89l4AaABAg",
+            "snippet": {
+                "channelId": "UCs5Y5_7XK8HLDX0SLNwkd3w",
+                "videoId": "dutyOc_cAEU",
+                "topLevelComment": {
+                    "kind": "youtube#comment",
+                    "etag": "gj9Pq17GmZmu_y6CZgALUbav4_8",
+                    "id": "UgyJgrrMO5TUMXPO89l4AaABAg",
+                    "snippet": {
+                        "channelId": "UCs5Y5_7XK8HLDX0SLNwkd3w",
+                        "videoId": "dutyOc_cAEU",
+                        "textDisplay": "The demonstration was on point!",
+                        "textOriginal": "The demonstration was on point!",
+                        "authorDisplayName": "@Trailheadz_app",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/yJTbBJ7JlJN305S0-XvWrxzCm7Dtd_QSIOM0q-CzeTjY0kwLrvtpQiqZKs6RJxx3JmsqgTtjCAI=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/@Trailheadz_app",
+                        "authorChannelId": {
+                            "value": "UCCMaStsSqe1pKcl6uGb07uw"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 3,
+                        "publishedAt": "2025-04-10T17:56:52Z",
+                        "updatedAt": "2025-04-10T17:56:52Z"
+                    }
+                },
+                "canReply": true,
+                "totalReplyCount": 1,
+                "isPublic": true
+            }
+        },
+        {
+            "kind": "youtube#commentThread",
+            "etag": "DrpB2J7KTfw_akvQMN2OLqRdAlM",
+            "id": "UgxmMQecq_PzyZGFrDt4AaABAg",
+            "snippet": {
+                "channelId": "UCs5Y5_7XK8HLDX0SLNwkd3w",
+                "videoId": "dutyOc_cAEU",
+                "topLevelComment": {
+                    "kind": "youtube#comment",
+                    "etag": "48Ogs2R06Gkpj5x7ekYoriRdwLY",
+                    "id": "UgxmMQecq_PzyZGFrDt4AaABAg",
+                    "snippet": {
+                        "channelId": "UCs5Y5_7XK8HLDX0SLNwkd3w",
+                        "videoId": "dutyOc_cAEU",
+                        "textDisplay": "Are you implementing or planning to implement RAG-like capabilities that build semantic relationships through vector embeddings of the codebase? This would seem particularly valuable for helping the agent efficiently understand and navigate through large codebases. If you&#39;re already doing this, I&#39;d love to know more about your implementation approach.",
+                        "textOriginal": "Are you implementing or planning to implement RAG-like capabilities that build semantic relationships through vector embeddings of the codebase? This would seem particularly valuable for helping the agent efficiently understand and navigate through large codebases. If you're already doing this, I'd love to know more about your implementation approach.",
+                        "authorDisplayName": "@shelbyhuffman5625",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_mIYKzEHkiHdRd0AWCDZFtkYm0XqQKaFBLLlx7J3-KjwBI=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/@shelbyhuffman5625",
+                        "authorChannelId": {
+                            "value": "UCsvD068adcqkoCNhNEtMNQw"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 1,
+                        "publishedAt": "2025-04-11T15:40:11Z",
+                        "updatedAt": "2025-04-11T15:42:24Z"
+                    }
+                },
+                "canReply": true,
+                "totalReplyCount": 0,
+                "isPublic": true
+            }
+        },
+        {
+            "kind": "youtube#commentThread",
+            "etag": "Os2JivgguF5yndS8YaO_VtGkm_c",
+            "id": "UgwEn8Rdkh9cyIbVjj94AaABAg",
+            "snippet": {
+                "channelId": "UCs5Y5_7XK8HLDX0SLNwkd3w",
+                "videoId": "dutyOc_cAEU",
+                "topLevelComment": {
+                    "kind": "youtube#comment",
+                    "etag": "wcziiKj97TYfnGECDB-Sa8EyGNo",
+                    "id": "UgwEn8Rdkh9cyIbVjj94AaABAg",
+                    "snippet": {
+                        "channelId": "UCs5Y5_7XK8HLDX0SLNwkd3w",
+                        "videoId": "dutyOc_cAEU",
+                        "textDisplay": "Nice video! Learn something new today! Thanks!",
+                        "textOriginal": "Nice video! Learn something new today! Thanks!",
+                        "authorDisplayName": "@DifferentialGeometry",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_kpR9HrG2SqB5qPLIITNwb5XB1EhEFkAcDq3Ab8gqIDMeQ=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/@DifferentialGeometry",
+                        "authorChannelId": {
+                            "value": "UCHhw7JJK42YUg_sni4BybXA"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 0,
+                        "publishedAt": "2025-04-10T21:47:13Z",
+                        "updatedAt": "2025-04-10T21:47:13Z"
+                    }
+                },
+                "canReply": true,
+                "totalReplyCount": 0,
+                "isPublic": true
+            }
+        },
+        {
+            "kind": "youtube#commentThread",
+            "etag": "x_e2JT4BZnagotRwsT8SyzIgR8g",
+            "id": "Ugz4N-prbGFuAYoqJ_J4AaABAg",
+            "snippet": {
+                "channelId": "UCs5Y5_7XK8HLDX0SLNwkd3w",
+                "videoId": "dutyOc_cAEU",
+                "topLevelComment": {
+                    "kind": "youtube#comment",
+                    "etag": "6beZ4zUz0epTw6hxhkxY5JjniPs",
+                    "id": "Ugz4N-prbGFuAYoqJ_J4AaABAg",
+                    "snippet": {
+                        "channelId": "UCs5Y5_7XK8HLDX0SLNwkd3w",
+                        "videoId": "dutyOc_cAEU",
+                        "textDisplay": "<a href=\"UCkszU2WH9gy1mb0dV-11UJg/YvgfY-LIBpjChgHKyYCQBg\"></a>I am Fullstack Dev 1 years ago, and a IOT &amp; Embbed Dev now... Ai not so familiar with customize rtos and chips, really need time debug。but i believe it&#39;s the right career change -",
+                        "textOriginal": "I am Fullstack Dev 1 years ago, and a IOT & Embbed Dev now... Ai not so familiar with customize rtos and chips, really need time debug。but i believe it's the right career change -",
+                        "authorDisplayName": "@flishman",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/CwcxpMjvJ8TwtgCRWLxkxuukhvBgL8se6ewOI3A2M3CoxPX5rtDAiK92FzpJq-YfSnQGC_WMlA=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/@flishman",
+                        "authorChannelId": {
+                            "value": "UCKZQHkIAA8otPcVgxlrgt0A"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 0,
+                        "publishedAt": "2025-04-11T11:43:11Z",
+                        "updatedAt": "2025-04-11T11:43:11Z"
+                    }
+                },
+                "canReply": true,
+                "totalReplyCount": 0,
+                "isPublic": true
+            }
+        },
+        {
+            "kind": "youtube#commentThread",
+            "etag": "W26d5apmzq2NmZ29WGE25mp2S1U",
+            "id": "UgyUvHZaqlHbPnntgbt4AaABAg",
+            "snippet": {
+                "channelId": "UCs5Y5_7XK8HLDX0SLNwkd3w",
+                "videoId": "dutyOc_cAEU",
+                "topLevelComment": {
+                    "kind": "youtube#comment",
+                    "etag": "PAMefRR8g_4Jlyat9GNZdLbthps",
+                    "id": "UgyUvHZaqlHbPnntgbt4AaABAg",
+                    "snippet": {
+                        "channelId": "UCs5Y5_7XK8HLDX0SLNwkd3w",
+                        "videoId": "dutyOc_cAEU",
+                        "textDisplay": "PRD is going to become the next trend of spaghetti recipe with unique flavor for devs",
+                        "textOriginal": "PRD is going to become the next trend of spaghetti recipe with unique flavor for devs",
+                        "authorDisplayName": "@burnzzsmithers276",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_kRO28pA5t78EUvcRLXOWL_GVYoIw8haCs6ACoRpw=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/@burnzzsmithers276",
+                        "authorChannelId": {
+                            "value": "UCSjMGEGyUuTsYs6MORmVEeg"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 1,
+                        "publishedAt": "2025-04-10T23:09:19Z",
+                        "updatedAt": "2025-04-10T23:09:19Z"
+                    }
+                },
+                "canReply": true,
+                "totalReplyCount": 0,
+                "isPublic": true
+            }
+        },
+        {
+            "kind": "youtube#commentThread",
+            "etag": "hNc_VqbBTdJNC8WsD--MXiP5mxo",
+            "id": "UgxYW9UvtJG_i2mgn6V4AaABAg",
+            "snippet": {
+                "channelId": "UCs5Y5_7XK8HLDX0SLNwkd3w",
+                "videoId": "dutyOc_cAEU",
+                "topLevelComment": {
+                    "kind": "youtube#comment",
+                    "etag": "Q7EhYtLSdLicWs29sUF9eLU7e88",
+                    "id": "UgxYW9UvtJG_i2mgn6V4AaABAg",
+                    "snippet": {
+                        "channelId": "UCs5Y5_7XK8HLDX0SLNwkd3w",
+                        "videoId": "dutyOc_cAEU",
+                        "textDisplay": "Is there a privacy mode? All my code will send to Microsoft? and Could&#39;t  I use LMStudio with my local LLM?",
+                        "textOriginal": "Is there a privacy mode? All my code will send to Microsoft? and Could't  I use LMStudio with my local LLM?",
+                        "authorDisplayName": "@Viralplace",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_kPQzBNFdJRgteToNEDjDOmNC07LqyRMU8sc5-Xc5nN6Q=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/@Viralplace",
+                        "authorChannelId": {
+                            "value": "UCsmowQ_lUvhvo0z56__QRJg"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 5,
+                        "publishedAt": "2025-04-10T07:54:20Z",
+                        "updatedAt": "2025-04-10T08:36:51Z"
+                    }
+                },
+                "canReply": true,
+                "totalReplyCount": 0,
+                "isPublic": true
+            }
+        },
+        {
+            "kind": "youtube#commentThread",
+            "etag": "r0-HkY1UsewhF32OM_s5B4Qc40w",
+            "id": "UgzJ1AxZ6SCUDT93woB4AaABAg",
+            "snippet": {
+                "channelId": "UCs5Y5_7XK8HLDX0SLNwkd3w",
+                "videoId": "dutyOc_cAEU",
+                "topLevelComment": {
+                    "kind": "youtube#comment",
+                    "etag": "FOhvzqgOytq3RDTlpCPM0zCObsU",
+                    "id": "UgzJ1AxZ6SCUDT93woB4AaABAg",
+                    "snippet": {
+                        "channelId": "UCs5Y5_7XK8HLDX0SLNwkd3w",
+                        "videoId": "dutyOc_cAEU",
+                        "textDisplay": "great content.  really well explained.",
+                        "textOriginal": "great content.  really well explained.",
+                        "authorDisplayName": "@CiaoKizomba",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/nhIIksFHeMmGWpkcn1UoJkQHCql322DsE14aS9QkFYPxwmSN8HVXn1SU7XT0FXnQe_6Jhxgr4A=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/@CiaoKizomba",
+                        "authorChannelId": {
+                            "value": "UCeoSEdYxnZT7ODUFI3vp5KA"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 0,
+                        "publishedAt": "2025-04-11T05:35:35Z",
+                        "updatedAt": "2025-04-11T05:35:35Z"
+                    }
+                },
+                "canReply": true,
+                "totalReplyCount": 0,
+                "isPublic": true
+            }
+        },
+        {
+            "kind": "youtube#commentThread",
+            "etag": "MSAik4PKO_5ROz_2zDS0wyqN9p0",
+            "id": "UgxGS0jyS4LAUrapZp54AaABAg",
+            "snippet": {
+                "channelId": "UCs5Y5_7XK8HLDX0SLNwkd3w",
+                "videoId": "dutyOc_cAEU",
+                "topLevelComment": {
+                    "kind": "youtube#comment",
+                    "etag": "jajMzfztmb3epEY9SVs65Ni5oJI",
+                    "id": "UgxGS0jyS4LAUrapZp54AaABAg",
+                    "snippet": {
+                        "channelId": "UCs5Y5_7XK8HLDX0SLNwkd3w",
+                        "videoId": "dutyOc_cAEU",
+                        "textDisplay": "awesome demo, thanks for the BRD doc",
+                        "textOriginal": "awesome demo, thanks for the BRD doc",
+                        "authorDisplayName": "@netoalanis",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_ly7bz3UPHqFLxmWASPFW7IorAvFC_dSLlT-lM3Ts1MKlo=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/@netoalanis",
+                        "authorChannelId": {
+                            "value": "UCUkDyxbb_7g7haQBUlilpZw"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 0,
+                        "publishedAt": "2025-04-11T00:43:23Z",
+                        "updatedAt": "2025-04-11T00:43:23Z"
+                    }
+                },
+                "canReply": true,
+                "totalReplyCount": 0,
+                "isPublic": true
+            }
+        },
+        {
+            "kind": "youtube#commentThread",
+            "etag": "eSgI0UGR1EM6gFJh7xUWD131is4",
+            "id": "UgwrYmwPQGWqwYTgjMN4AaABAg",
+            "snippet": {
+                "channelId": "UCs5Y5_7XK8HLDX0SLNwkd3w",
+                "videoId": "dutyOc_cAEU",
+                "topLevelComment": {
+                    "kind": "youtube#comment",
+                    "etag": "L-my2zisTie0BpJBbR0ERCteEM4",
+                    "id": "UgwrYmwPQGWqwYTgjMN4AaABAg",
+                    "snippet": {
+                        "channelId": "UCs5Y5_7XK8HLDX0SLNwkd3w",
+                        "videoId": "dutyOc_cAEU",
+                        "textDisplay": "RIP my fellow junior devs :D",
+                        "textOriginal": "RIP my fellow junior devs :D",
+                        "authorDisplayName": "@gothama7522",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_kO-rKhQIH7T5u6Xc5pPhdSTATY6geT5O7b_LWlqBMyIyE=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/@gothama7522",
+                        "authorChannelId": {
+                            "value": "UCfpWhFNGwMAxKNVV6JzBxOg"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 1,
+                        "publishedAt": "2025-04-11T09:19:59Z",
+                        "updatedAt": "2025-04-11T09:19:59Z"
+                    }
+                },
+                "canReply": true,
+                "totalReplyCount": 0,
+                "isPublic": true
+            }
+        },
+        {
+            "kind": "youtube#commentThread",
+            "etag": "-HLTa41sBbRSwQMUJQS-MISz1Ho",
+            "id": "Ugz9YR7RjHj0J4oUd0F4AaABAg",
+            "snippet": {
+                "channelId": "UCs5Y5_7XK8HLDX0SLNwkd3w",
+                "videoId": "dutyOc_cAEU",
+                "topLevelComment": {
+                    "kind": "youtube#comment",
+                    "etag": "6q1_aMCrBDPw2lulqeaTve1dvWE",
+                    "id": "Ugz9YR7RjHj0J4oUd0F4AaABAg",
+                    "snippet": {
+                        "channelId": "UCs5Y5_7XK8HLDX0SLNwkd3w",
+                        "videoId": "dutyOc_cAEU",
+                        "textDisplay": "Love how he&#39;s getting ready for skynet to awaken, saying please, thank you, and even wishing good luck",
+                        "textOriginal": "Love how he's getting ready for skynet to awaken, saying please, thank you, and even wishing good luck",
+                        "authorDisplayName": "@claudevandort",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_msjqfjv1OrMvGRBggSCm8m2Nr8OpU3yRJUEEp7vLZcbvu3=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/@claudevandort",
+                        "authorChannelId": {
+                            "value": "UCx0rGomP2x1Fj6fC1neZOAA"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 0,
+                        "publishedAt": "2025-04-10T20:30:15Z",
+                        "updatedAt": "2025-04-10T20:30:15Z"
+                    }
+                },
+                "canReply": true,
+                "totalReplyCount": 0,
+                "isPublic": true
+            }
+        },
+        {
+            "kind": "youtube#commentThread",
+            "etag": "Hh7u5N2MVB19tezGp-g7b3Bongc",
+            "id": "UgzNM7x7v1Nnd5Wo2R94AaABAg",
+            "snippet": {
+                "channelId": "UCs5Y5_7XK8HLDX0SLNwkd3w",
+                "videoId": "dutyOc_cAEU",
+                "topLevelComment": {
+                    "kind": "youtube#comment",
+                    "etag": "ybBTYgxm0l_t2KyNbjQdyYvbSF4",
+                    "id": "UgzNM7x7v1Nnd5Wo2R94AaABAg",
+                    "snippet": {
+                        "channelId": "UCs5Y5_7XK8HLDX0SLNwkd3w",
+                        "videoId": "dutyOc_cAEU",
+                        "textDisplay": "<a href=\"https://www.youtube.com/watch?v=dutyOc_cAEU&amp;t=165\">2:45</a> 😮 … huge respect",
+                        "textOriginal": "2:45 😮 … huge respect",
+                        "authorDisplayName": "@dinoscheidt",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/tBLvEfeS39Sid5E2yffH6fmrYBvKXMw-BCnB4ZIxz0-1Ipofrk8SOvZ0SYih8WD34LbOlGeoZg=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/@dinoscheidt",
+                        "authorChannelId": {
+                            "value": "UCzvnXp8ztXGonejC-x_Sb3g"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 0,
+                        "publishedAt": "2025-04-10T21:10:25Z",
+                        "updatedAt": "2025-04-10T22:01:33Z"
+                    }
+                },
+                "canReply": true,
+                "totalReplyCount": 0,
+                "isPublic": true
+            }
+        },
+        {
+            "kind": "youtube#commentThread",
+            "etag": "xXtHt4Ihugz-BetUXxz82Nwqaxw",
+            "id": "UgyW8tqrCTwZIhGbfw14AaABAg",
+            "snippet": {
+                "channelId": "UCs5Y5_7XK8HLDX0SLNwkd3w",
+                "videoId": "dutyOc_cAEU",
+                "topLevelComment": {
+                    "kind": "youtube#comment",
+                    "etag": "Mu_atqXnSJX1fcvYxCSPsMIUp38",
+                    "id": "UgyW8tqrCTwZIhGbfw14AaABAg",
+                    "snippet": {
+                        "channelId": "UCs5Y5_7XK8HLDX0SLNwkd3w",
+                        "videoId": "dutyOc_cAEU",
+                        "textDisplay": "Oh my god - this is brilliant and scary the same time",
+                        "textOriginal": "Oh my god - this is brilliant and scary the same time",
+                        "authorDisplayName": "@Marco-L",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_lDns9p_KC5DmoJfMInyRrNCz3OaqxBvI0MlpvPsdWixhQ=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/@Marco-L",
+                        "authorChannelId": {
+                            "value": "UC9IdWsx2Fc1q4Eb1iZ_R5IA"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 0,
+                        "publishedAt": "2025-04-11T07:59:36Z",
+                        "updatedAt": "2025-04-11T07:59:36Z"
+                    }
+                },
+                "canReply": true,
+                "totalReplyCount": 0,
+                "isPublic": true
+            }
+        },
+        {
+            "kind": "youtube#commentThread",
+            "etag": "sTm1MqVtYcPAUS57iyPmYbsMubk",
+            "id": "Ugy0FE6WG8ReqGeAXjJ4AaABAg",
+            "snippet": {
+                "channelId": "UCs5Y5_7XK8HLDX0SLNwkd3w",
+                "videoId": "dutyOc_cAEU",
+                "topLevelComment": {
+                    "kind": "youtube#comment",
+                    "etag": "eZX5yiWHxo6VBi37a21i3D4ukDE",
+                    "id": "Ugy0FE6WG8ReqGeAXjJ4AaABAg",
+                    "snippet": {
+                        "channelId": "UCs5Y5_7XK8HLDX0SLNwkd3w",
+                        "videoId": "dutyOc_cAEU",
+                        "textDisplay": "this is a real tutorial.. thank you for this.. unlike stupid namesake pr tutorials that pump out",
+                        "textOriginal": "this is a real tutorial.. thank you for this.. unlike stupid namesake pr tutorials that pump out",
+                        "authorDisplayName": "@giridharpavan1592",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_kBNBhyJp7KM1JQ2zOdc-LkORRSJmMtkpeRxpnYjOM=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/@giridharpavan1592",
+                        "authorChannelId": {
+                            "value": "UCXKJ1YAhiLS9r8KyI3pWuLA"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 0,
+                        "publishedAt": "2025-04-10T21:41:09Z",
+                        "updatedAt": "2025-04-10T21:41:09Z"
+                    }
+                },
+                "canReply": true,
+                "totalReplyCount": 0,
+                "isPublic": true
+            }
+        },
+        {
+            "kind": "youtube#commentThread",
+            "etag": "kRI5PhWOmvaX9CdEsqHrEIpOAJw",
+            "id": "Ugy9yOOu7LteZBL-Kcd4AaABAg",
+            "snippet": {
+                "channelId": "UCs5Y5_7XK8HLDX0SLNwkd3w",
+                "videoId": "dutyOc_cAEU",
+                "topLevelComment": {
+                    "kind": "youtube#comment",
+                    "etag": "ES5wzoMwWtbLQtVOtbaiP0wt-x4",
+                    "id": "Ugy9yOOu7LteZBL-Kcd4AaABAg",
+                    "snippet": {
+                        "channelId": "UCs5Y5_7XK8HLDX0SLNwkd3w",
+                        "videoId": "dutyOc_cAEU",
+                        "textDisplay": "That&#39;s outstanding! We are moving at insane speeds.",
+                        "textOriginal": "That's outstanding! We are moving at insane speeds.",
+                        "authorDisplayName": "@MrAlaa3344",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_nICajrNND23MwrQvGbMNdLCLdkK0jMLkr-baru6ycmTD4=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/@MrAlaa3344",
+                        "authorChannelId": {
+                            "value": "UC5piPBz3k_6meysr0Tgjg5A"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 0,
+                        "publishedAt": "2025-04-10T07:24:10Z",
+                        "updatedAt": "2025-04-10T07:24:10Z"
+                    }
+                },
+                "canReply": true,
+                "totalReplyCount": 0,
+                "isPublic": true
+            }
+        },
+        {
+            "kind": "youtube#commentThread",
+            "etag": "3DZEBXXHeHHo8ayhCO3sfbZZ5jo",
+            "id": "Ugxjkwxu0KVgdWNzilx4AaABAg",
+            "snippet": {
+                "channelId": "UCs5Y5_7XK8HLDX0SLNwkd3w",
+                "videoId": "dutyOc_cAEU",
+                "topLevelComment": {
+                    "kind": "youtube#comment",
+                    "etag": "e5N_VkC6VfDxiOYJp_T_0bQX9nI",
+                    "id": "Ugxjkwxu0KVgdWNzilx4AaABAg",
+                    "snippet": {
+                        "channelId": "UCs5Y5_7XK8HLDX0SLNwkd3w",
+                        "videoId": "dutyOc_cAEU",
+                        "textDisplay": "Epic video, what a time to be a dev",
+                        "textOriginal": "Epic video, what a time to be a dev",
+                        "authorDisplayName": "@OskarEriksson-wh7pu",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_k2j-U1hx2gQCJStFa-jkECGZa50pYXWpHLgxBfCIntw44Dm80MYPjDJG2ntcx9_FaCSw=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/@OskarEriksson-wh7pu",
+                        "authorChannelId": {
+                            "value": "UCQ9uXEV63BqHCDB9eeYoQ9A"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 0,
+                        "publishedAt": "2025-04-11T14:17:44Z",
+                        "updatedAt": "2025-04-11T14:17:44Z"
+                    }
+                },
+                "canReply": true,
+                "totalReplyCount": 0,
+                "isPublic": true
+            }
+        },
+        {
+            "kind": "youtube#commentThread",
+            "etag": "zaZqJUyubIwVwZDaV7wNa09bmjs",
+            "id": "UgyoZHKkbQCpfgeajux4AaABAg",
+            "snippet": {
+                "channelId": "UCs5Y5_7XK8HLDX0SLNwkd3w",
+                "videoId": "dutyOc_cAEU",
+                "topLevelComment": {
+                    "kind": "youtube#comment",
+                    "etag": "lxlODDBLfiaNzqBIKj_Bov8Osp4",
+                    "id": "UgyoZHKkbQCpfgeajux4AaABAg",
+                    "snippet": {
+                        "channelId": "UCs5Y5_7XK8HLDX0SLNwkd3w",
+                        "videoId": "dutyOc_cAEU",
+                        "textDisplay": "I&#39;d love to have all 3 options again, thank you lol.",
+                        "textOriginal": "I'd love to have all 3 options again, thank you lol.",
+                        "authorDisplayName": "@A_Concerned_Citizen",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/0J7fGaDoQkm4ZdpYoBIHNvGrFnkR8V9za80y5zOGA-b6enL_ROnPnsdx7_gFfs7ZeAfweSW8NQ=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/@A_Concerned_Citizen",
+                        "authorChannelId": {
+                            "value": "UCtauuJCPC3UynVbU0u0AENg"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 1,
+                        "publishedAt": "2025-04-09T19:28:25Z",
+                        "updatedAt": "2025-04-09T19:28:25Z"
+                    }
+                },
+                "canReply": true,
+                "totalReplyCount": 0,
+                "isPublic": true
+            }
+        },
+        {
+            "kind": "youtube#commentThread",
+            "etag": "1gf6WhCBLKljPe1YTpNTERfdTCw",
+            "id": "UgynmouDsuEV2wfo_r54AaABAg",
+            "snippet": {
+                "channelId": "UCs5Y5_7XK8HLDX0SLNwkd3w",
+                "videoId": "dutyOc_cAEU",
+                "topLevelComment": {
+                    "kind": "youtube#comment",
+                    "etag": "6KDiEACZsXDZc3iMqhVhT2S7H6w",
+                    "id": "UgynmouDsuEV2wfo_r54AaABAg",
+                    "snippet": {
+                        "channelId": "UCs5Y5_7XK8HLDX0SLNwkd3w",
+                        "videoId": "dutyOc_cAEU",
+                        "textDisplay": "<a href=\"https://www.youtube.com/watch?v=dutyOc_cAEU&amp;t=180\">3:00</a> haaaa i&#39;m so glad cut off times and recent documentation are brought up so clearly here ! It&#39;s so frustrating when you want to work with cutting edge libraries, but chatbots confidently use old syntax...",
+                        "textOriginal": "3:00 haaaa i'm so glad cut off times and recent documentation are brought up so clearly here ! It's so frustrating when you want to work with cutting edge libraries, but chatbots confidently use old syntax...",
+                        "authorDisplayName": "@v-sig2389",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_ki3RHikhTz5XM3YcdvHo1hRyZGdhwrsEqETJznXEw=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/@v-sig2389",
+                        "authorChannelId": {
+                            "value": "UCHj0c0cnrFh9-wP0BssOCKQ"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 2,
+                        "publishedAt": "2025-04-10T20:02:23Z",
+                        "updatedAt": "2025-04-10T20:02:23Z"
+                    }
+                },
+                "canReply": true,
+                "totalReplyCount": 0,
+                "isPublic": true
+            }
+        },
+        {
+            "kind": "youtube#commentThread",
+            "etag": "IhfdPBj9ZEkxMhCsK4aY_p7Chlc",
+            "id": "UgyCsVvEnSt8Ssgjo6t4AaABAg",
+            "snippet": {
+                "channelId": "UCs5Y5_7XK8HLDX0SLNwkd3w",
+                "videoId": "dutyOc_cAEU",
+                "topLevelComment": {
+                    "kind": "youtube#comment",
+                    "etag": "bSW-psDe47nkmsiHFYvVTWxe4RA",
+                    "id": "UgyCsVvEnSt8Ssgjo6t4AaABAg",
+                    "snippet": {
+                        "channelId": "UCs5Y5_7XK8HLDX0SLNwkd3w",
+                        "videoId": "dutyOc_cAEU",
+                        "textDisplay": "love this ending high cost monopoly same as cursor",
+                        "textOriginal": "love this ending high cost monopoly same as cursor",
+                        "authorDisplayName": "@Petori_Hustler",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/v40e6HPcd6p_F-QDgol3KJZqnWA9tzfXqCG2CuM_GN53KeGg_onpjdLdhV6rk12Rn4SgGBSjxw=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/@Petori_Hustler",
+                        "authorChannelId": {
+                            "value": "UCp1-MPFTFHTc4xisgZSFmRA"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 0,
+                        "publishedAt": "2025-04-11T09:33:43Z",
+                        "updatedAt": "2025-04-11T09:33:43Z"
+                    }
+                },
+                "canReply": true,
+                "totalReplyCount": 0,
+                "isPublic": true
+            }
+        },
+        {
+            "kind": "youtube#commentThread",
+            "etag": "heSt_BFu0byobHnM2bAnT0z9QRY",
+            "id": "UgyI_FvcsUi60TaUT1Z4AaABAg",
+            "snippet": {
+                "channelId": "UCs5Y5_7XK8HLDX0SLNwkd3w",
+                "videoId": "dutyOc_cAEU",
+                "topLevelComment": {
+                    "kind": "youtube#comment",
+                    "etag": "mztECfWS9YgtIQ2wgsrEL6I2hxs",
+                    "id": "UgyI_FvcsUi60TaUT1Z4AaABAg",
+                    "snippet": {
+                        "channelId": "UCs5Y5_7XK8HLDX0SLNwkd3w",
+                        "videoId": "dutyOc_cAEU",
+                        "textDisplay": "I use agent mode with Gemini 2.5 pro model. So far so good. <a href=\"UCkszU2WH9gy1mb0dV-11UJg/6_cfY8HJH8bV5QS5yYDYDg\"></a><a href=\"UCkszU2WH9gy1mb0dV-11UJg/6_cfY8HJH8bV5QS5yYDYDg\"></a><a href=\"UCkszU2WH9gy1mb0dV-11UJg/6_cfY8HJH8bV5QS5yYDYDg\"></a><a href=\"UCkszU2WH9gy1mb0dV-11UJg/6_cfY8HJH8bV5QS5yYDYDg\"></a><a href=\"UCkszU2WH9gy1mb0dV-11UJg/6_cfY8HJH8bV5QS5yYDYDg\"></a>",
+                        "textOriginal": "I use agent mode with Gemini 2.5 pro model. So far so good. ",
+                        "authorDisplayName": "@tuapuikia",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_lh2NdIqgsl8F4D8AvvXAY_vQd_x24PcjUlBM1Dar5kKmce=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/@tuapuikia",
+                        "authorChannelId": {
+                            "value": "UCMJEGyqTnIMp9P-walOiDRw"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 0,
+                        "publishedAt": "2025-04-11T10:50:23Z",
+                        "updatedAt": "2025-04-11T10:50:23Z"
+                    }
+                },
+                "canReply": true,
+                "totalReplyCount": 0,
+                "isPublic": true
+            }
+        },
+        {
+            "kind": "youtube#commentThread",
+            "etag": "J6R3e1Qn_3mmu3RuqpB0SumvOaA",
+            "id": "UgxP34NdNuUlqJa0nUB4AaABAg",
+            "snippet": {
+                "channelId": "UCs5Y5_7XK8HLDX0SLNwkd3w",
+                "videoId": "dutyOc_cAEU",
+                "topLevelComment": {
+                    "kind": "youtube#comment",
+                    "etag": "3s5HF3zv4v7dNAgs56G-Y64-BYg",
+                    "id": "UgxP34NdNuUlqJa0nUB4AaABAg",
+                    "snippet": {
+                        "channelId": "UCs5Y5_7XK8HLDX0SLNwkd3w",
+                        "videoId": "dutyOc_cAEU",
+                        "textDisplay": "I completed 3 projects during the weekend from scratch to finish. <br><br>After that it took me a bit of time to get my mind to really accept the situation that I am going through, It feels like the first time I have played video games as a kid, like I found a magic box. It’s crazy!<br><br>It has become like an addiction to me. I am building stuff while I’m on meetings.<br><br>It feels surreal!",
+                        "textOriginal": "I completed 3 projects during the weekend from scratch to finish. \n\nAfter that it took me a bit of time to get my mind to really accept the situation that I am going through, It feels like the first time I have played video games as a kid, like I found a magic box. It’s crazy!\n\nIt has become like an addiction to me. I am building stuff while I’m on meetings.\n\nIt feels surreal!",
+                        "authorDisplayName": "@BFGF42",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/LgL5QzJHrSfxCyBiKRjBO-uCQ5WF1sZZ1aIpGIY_QU1qVe0BAr9CFgU-0IEBoa5dCyUB-Mtp2g=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/@BFGF42",
+                        "authorChannelId": {
+                            "value": "UC5g3jad5ketURVJhWa_djgQ"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 24,
+                        "publishedAt": "2025-04-10T01:20:22Z",
+                        "updatedAt": "2025-04-10T01:21:37Z"
+                    }
+                },
+                "canReply": true,
+                "totalReplyCount": 6,
+                "isPublic": true
+            }
+        },
+        {
+            "kind": "youtube#commentThread",
+            "etag": "7ZWnnPgGefgYFQ_UMcosJKcDzwI",
+            "id": "UgzUCQ73_H3FcYkHsMN4AaABAg",
+            "snippet": {
+                "channelId": "UCs5Y5_7XK8HLDX0SLNwkd3w",
+                "videoId": "dutyOc_cAEU",
+                "topLevelComment": {
+                    "kind": "youtube#comment",
+                    "etag": "qTKewWvbyNGB8WbIuktwZsZiqEk",
+                    "id": "UgzUCQ73_H3FcYkHsMN4AaABAg",
+                    "snippet": {
+                        "channelId": "UCs5Y5_7XK8HLDX0SLNwkd3w",
+                        "videoId": "dutyOc_cAEU",
+                        "textDisplay": "Simply incredible repertoire of tools!👌🏾👌🏾",
+                        "textOriginal": "Simply incredible repertoire of tools!👌🏾👌🏾",
+                        "authorDisplayName": "@chrisogonas",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_nyT74M8CsViPicj2Wv2jpvGb5bSqlCDI06a05cq7txdOU=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/@chrisogonas",
+                        "authorChannelId": {
+                            "value": "UC6VmpvQUMJ9uVd6-u5Ks8FQ"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 0,
+                        "publishedAt": "2025-04-10T09:47:28Z",
+                        "updatedAt": "2025-04-10T09:47:28Z"
+                    }
+                },
+                "canReply": true,
+                "totalReplyCount": 0,
+                "isPublic": true
+            }
+        },
+        {
+            "kind": "youtube#commentThread",
+            "etag": "jd8I57ZhSPcTPbS2kYG4h3Y3XJc",
+            "id": "Ugy0lPGg2NB0ZLeg_kV4AaABAg",
+            "snippet": {
+                "channelId": "UCs5Y5_7XK8HLDX0SLNwkd3w",
+                "videoId": "dutyOc_cAEU",
+                "topLevelComment": {
+                    "kind": "youtube#comment",
+                    "etag": "oN79X4Bq1LNjM0PK4p2z35CoE2k",
+                    "id": "Ugy0lPGg2NB0ZLeg_kV4AaABAg",
+                    "snippet": {
+                        "channelId": "UCs5Y5_7XK8HLDX0SLNwkd3w",
+                        "videoId": "dutyOc_cAEU",
+                        "textDisplay": "Wow, this is awesome, these features are exactly what I want, Github Copilot AI generates great looking UI and interactivity just like lovable does, I don&#39;t think I would go back to lovable get the initial frontend project then bring back to vscode for furthur iterations/development anymore, I can completely build the entire project within vscode + copilot AI, that is really awesome, thank you so much 🙏❤",
+                        "textOriginal": "Wow, this is awesome, these features are exactly what I want, Github Copilot AI generates great looking UI and interactivity just like lovable does, I don't think I would go back to lovable get the initial frontend project then bring back to vscode for furthur iterations/development anymore, I can completely build the entire project within vscode + copilot AI, that is really awesome, thank you so much 🙏❤",
+                        "authorDisplayName": "@maskman4821",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_mVQYO1asw3dbMXzE6bqsRVAP0osl2Kr1kahrHrUTW0qGM=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/@maskman4821",
+                        "authorChannelId": {
+                            "value": "UC4KUM6nU06xICbN7MoYj7aQ"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 0,
+                        "publishedAt": "2025-04-10T01:44:46Z",
+                        "updatedAt": "2025-04-10T01:44:46Z"
+                    }
+                },
+                "canReply": true,
+                "totalReplyCount": 0,
+                "isPublic": true
+            }
+        },
+        {
+            "kind": "youtube#commentThread",
+            "etag": "dF7t7FFmAZecAqahXOKI_G3D0QE",
+            "id": "UgzL_ZxxPsN4Fx5YWpp4AaABAg",
+            "snippet": {
+                "channelId": "UCs5Y5_7XK8HLDX0SLNwkd3w",
+                "videoId": "dutyOc_cAEU",
+                "topLevelComment": {
+                    "kind": "youtube#comment",
+                    "etag": "jWTOe4f5db1tB4_42txcrGbL0ew",
+                    "id": "UgzL_ZxxPsN4Fx5YWpp4AaABAg",
+                    "snippet": {
+                        "channelId": "UCs5Y5_7XK8HLDX0SLNwkd3w",
+                        "videoId": "dutyOc_cAEU",
+                        "textDisplay": "Great video, thank you for sharing.<br>I didn&#39;t realize agent on vs code was very good. Lol! I love the vibe coding button.<br><br>How long did it take for the agent to write the web application? 30 minutes? That&#39;s very fast.",
+                        "textOriginal": "Great video, thank you for sharing.\nI didn't realize agent on vs code was very good. Lol! I love the vibe coding button.\n\nHow long did it take for the agent to write the web application? 30 minutes? That's very fast.",
+                        "authorDisplayName": "@garlicnator",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_nxD7eTXBA5iUaLZmCQrPDXyKw9eMZ7JKRriegncRoCnn_XRrAEQ7ckpgil4YDZdF1_DQ=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/@garlicnator",
+                        "authorChannelId": {
+                            "value": "UCYmHSwipu3w4ZBdFU8TmJGw"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 0,
+                        "publishedAt": "2025-04-10T12:52:20Z",
+                        "updatedAt": "2025-04-10T12:54:01Z"
+                    }
+                },
+                "canReply": true,
+                "totalReplyCount": 0,
+                "isPublic": true
+            }
+        },
+        {
+            "kind": "youtube#commentThread",
+            "etag": "ZIMFSXBQNdzw60XDCY8s1HNyvI8",
+            "id": "UgxJZumvH1hRqlBK8IZ4AaABAg",
+            "snippet": {
+                "channelId": "UCs5Y5_7XK8HLDX0SLNwkd3w",
+                "videoId": "dutyOc_cAEU",
+                "topLevelComment": {
+                    "kind": "youtube#comment",
+                    "etag": "8bG_-31KavKGnGRw-cSriqgZBbQ",
+                    "id": "UgxJZumvH1hRqlBK8IZ4AaABAg",
+                    "snippet": {
+                        "channelId": "UCs5Y5_7XK8HLDX0SLNwkd3w",
+                        "videoId": "dutyOc_cAEU",
+                        "textDisplay": "An overwatch reference is the last thing I expected.",
+                        "textOriginal": "An overwatch reference is the last thing I expected.",
+                        "authorDisplayName": "@Ryval_OW",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_lXSzTZTqHsBfJ0bvMbIq7Ij5blBBFAQtwAk2cvPdx9UkQ=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/@Ryval_OW",
+                        "authorChannelId": {
+                            "value": "UCrzJ0m6aTfo9tq0znRWh3nA"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 0,
+                        "publishedAt": "2025-04-11T15:00:56Z",
+                        "updatedAt": "2025-04-11T15:00:56Z"
+                    }
+                },
+                "canReply": true,
+                "totalReplyCount": 0,
+                "isPublic": true
+            }
+        },
+        {
+            "kind": "youtube#commentThread",
+            "etag": "kEovn6NpP5eSuTT9kG6PyeXfrcQ",
+            "id": "UgwTry7pvLQx2i-rSSp4AaABAg",
+            "snippet": {
+                "channelId": "UCs5Y5_7XK8HLDX0SLNwkd3w",
+                "videoId": "dutyOc_cAEU",
+                "topLevelComment": {
+                    "kind": "youtube#comment",
+                    "etag": "rm9KB0kxxhkPaVTTYb5ltWFJb0c",
+                    "id": "UgwTry7pvLQx2i-rSSp4AaABAg",
+                    "snippet": {
+                        "channelId": "UCs5Y5_7XK8HLDX0SLNwkd3w",
+                        "videoId": "dutyOc_cAEU",
+                        "textDisplay": "You are doing game chaining things🙌",
+                        "textOriginal": "You are doing game chaining things🙌",
+                        "authorDisplayName": "@moazzamsuleman1520",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_nJqU3WONxFA10ZX9wqg5uBb_ID4yuFtN9JqmZpck17qHM=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/@moazzamsuleman1520",
+                        "authorChannelId": {
+                            "value": "UC0u8VeagwdVke_sRrAI5aSQ"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 0,
+                        "publishedAt": "2025-04-11T05:41:53Z",
+                        "updatedAt": "2025-04-11T05:41:53Z"
+                    }
+                },
+                "canReply": true,
+                "totalReplyCount": 0,
+                "isPublic": true
+            }
+        },
+        {
+            "kind": "youtube#commentThread",
+            "etag": "Vjt3mvwpls0U_L2RDUxtlhZVTJg",
+            "id": "Ugw5h4bWKbMLBI5vuHt4AaABAg",
+            "snippet": {
+                "channelId": "UCs5Y5_7XK8HLDX0SLNwkd3w",
+                "videoId": "dutyOc_cAEU",
+                "topLevelComment": {
+                    "kind": "youtube#comment",
+                    "etag": "K1471Z7VySszR5heotcgRGfEcHk",
+                    "id": "Ugw5h4bWKbMLBI5vuHt4AaABAg",
+                    "snippet": {
+                        "channelId": "UCs5Y5_7XK8HLDX0SLNwkd3w",
+                        "videoId": "dutyOc_cAEU",
+                        "textDisplay": "I&#39;d love to see computer use supported via Claude, it makes website design so much easier. Cline supports this, so I don&#39;t see why VS Code can&#39;t have the same functionality.",
+                        "textOriginal": "I'd love to see computer use supported via Claude, it makes website design so much easier. Cline supports this, so I don't see why VS Code can't have the same functionality.",
+                        "authorDisplayName": "@MultiMojo",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_m2WnGb0IANTeTATMkYx0WaHOwnP1n9Z6kCxjnBJs0=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/@MultiMojo",
+                        "authorChannelId": {
+                            "value": "UCr5vRQ2ZqEy1X1VY9ZqAdgQ"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 0,
+                        "publishedAt": "2025-04-11T01:30:41Z",
+                        "updatedAt": "2025-04-11T01:30:41Z"
+                    }
+                },
+                "canReply": true,
+                "totalReplyCount": 0,
+                "isPublic": true
+            }
+        },
+        {
+            "kind": "youtube#commentThread",
+            "etag": "KogYh7hxQ9df909pxnKOEpeDNpE",
+            "id": "Ugx7Z6aHKWhoR2R1bkd4AaABAg",
+            "snippet": {
+                "channelId": "UCs5Y5_7XK8HLDX0SLNwkd3w",
+                "videoId": "dutyOc_cAEU",
+                "topLevelComment": {
+                    "kind": "youtube#comment",
+                    "etag": "S5lmYvIIwE3TGbZCEMAO9qD5w6M",
+                    "id": "Ugx7Z6aHKWhoR2R1bkd4AaABAg",
+                    "snippet": {
+                        "channelId": "UCs5Y5_7XK8HLDX0SLNwkd3w",
+                        "videoId": "dutyOc_cAEU",
+                        "textDisplay": "Premise: I really like what you are doing!\r<br>In my opinion you should focus on replacing high-level figures.\r<br>Replacing a programmer is difficult: programming requires a large dose of creativity.\r<br>Furthermore, the programmer costs little.\r<br>I would like a product that manages communication, work management, customer feedback, coordination with the administration.\r<br>Those are figures that are easily replaceable by an AI and that cost much more.",
+                        "textOriginal": "Premise: I really like what you are doing!\r\nIn my opinion you should focus on replacing high-level figures.\r\nReplacing a programmer is difficult: programming requires a large dose of creativity.\r\nFurthermore, the programmer costs little.\r\nI would like a product that manages communication, work management, customer feedback, coordination with the administration.\r\nThose are figures that are easily replaceable by an AI and that cost much more.",
+                        "authorDisplayName": "@priolo22",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_mKIPE-BuCrMOxktt9xVSVRu-brmKqDuGGvqGYwJgHDadU=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/@priolo22",
+                        "authorChannelId": {
+                            "value": "UC0N9Uii7qLb-xHcGwShI79g"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 0,
+                        "publishedAt": "2025-04-11T05:14:53Z",
+                        "updatedAt": "2025-04-11T05:14:53Z"
+                    }
+                },
+                "canReply": true,
+                "totalReplyCount": 0,
+                "isPublic": true
+            }
+        },
+        {
+            "kind": "youtube#commentThread",
+            "etag": "bqnbF6iatsDNqj81C76nw7iFwm0",
+            "id": "UgxczavlFRP9y9DfP5p4AaABAg",
+            "snippet": {
+                "channelId": "UCs5Y5_7XK8HLDX0SLNwkd3w",
+                "videoId": "dutyOc_cAEU",
+                "topLevelComment": {
+                    "kind": "youtube#comment",
+                    "etag": "lBvZoPOAQbYGp6c9JsLkpRkQYDI",
+                    "id": "UgxczavlFRP9y9DfP5p4AaABAg",
+                    "snippet": {
+                        "channelId": "UCs5Y5_7XK8HLDX0SLNwkd3w",
+                        "videoId": "dutyOc_cAEU",
+                        "textDisplay": "I have already started using agents in VSC and now with these new features, wow I am excited. Thanks for sharing!!!!",
+                        "textOriginal": "I have already started using agents in VSC and now with these new features, wow I am excited. Thanks for sharing!!!!",
+                        "authorDisplayName": "@Prakash4691SV",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_mnFS51uAylW-RygQSvvdp6ZRIcpiIO4uhdrY5hBYDOa-fC=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/@Prakash4691SV",
+                        "authorChannelId": {
+                            "value": "UCvgbsCdoW9fhRk0_XDx1f2w"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 3,
+                        "publishedAt": "2025-04-09T20:23:14Z",
+                        "updatedAt": "2025-04-09T20:23:14Z"
+                    }
+                },
+                "canReply": true,
+                "totalReplyCount": 0,
+                "isPublic": true
+            }
+        },
+        {
+            "kind": "youtube#commentThread",
+            "etag": "fxTaYfY83mU5cqpKWuIucH_rXic",
+            "id": "Ugx8iUxCjQMZAtApU-14AaABAg",
+            "snippet": {
+                "channelId": "UCs5Y5_7XK8HLDX0SLNwkd3w",
+                "videoId": "dutyOc_cAEU",
+                "topLevelComment": {
+                    "kind": "youtube#comment",
+                    "etag": "HJ9LgTX3SZUJFh9R-eTOfnBl4Go",
+                    "id": "Ugx8iUxCjQMZAtApU-14AaABAg",
+                    "snippet": {
+                        "channelId": "UCs5Y5_7XK8HLDX0SLNwkd3w",
+                        "videoId": "dutyOc_cAEU",
+                        "textDisplay": "Competitive with cursor - phew. Nice work vscode team. Loved the demo, loved your explanation on the model context protocol.",
+                        "textOriginal": "Competitive with cursor - phew. Nice work vscode team. Loved the demo, loved your explanation on the model context protocol.",
+                        "authorDisplayName": "@shelbyhuffman5625",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_mIYKzEHkiHdRd0AWCDZFtkYm0XqQKaFBLLlx7J3-KjwBI=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/@shelbyhuffman5625",
+                        "authorChannelId": {
+                            "value": "UCsvD068adcqkoCNhNEtMNQw"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 0,
+                        "publishedAt": "2025-04-11T15:35:45Z",
+                        "updatedAt": "2025-04-11T15:35:45Z"
+                    }
+                },
+                "canReply": true,
+                "totalReplyCount": 0,
+                "isPublic": true
+            }
+        },
+        {
+            "kind": "youtube#commentThread",
+            "etag": "83gFEgnhaa6_6LlXeikFhiRx3pQ",
+            "id": "UgygI72U-4yPPdff-0Z4AaABAg",
+            "snippet": {
+                "channelId": "UCs5Y5_7XK8HLDX0SLNwkd3w",
+                "videoId": "dutyOc_cAEU",
+                "topLevelComment": {
+                    "kind": "youtube#comment",
+                    "etag": "IlfEa00ZQF2UqPj9UB9a0sqlAgY",
+                    "id": "UgygI72U-4yPPdff-0Z4AaABAg",
+                    "snippet": {
+                        "channelId": "UCs5Y5_7XK8HLDX0SLNwkd3w",
+                        "videoId": "dutyOc_cAEU",
+                        "textDisplay": "It is incredible, I want to use it for IT support, endpoints and network troubleshooting. I suppose querrying APIs and automation will be much easier for beginners. So cool. Can you make some video for networking or it support?",
+                        "textOriginal": "It is incredible, I want to use it for IT support, endpoints and network troubleshooting. I suppose querrying APIs and automation will be much easier for beginners. So cool. Can you make some video for networking or it support?",
+                        "authorDisplayName": "@jdgtnight",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/RocHQc-khiOFttPbvgMc5LVN_w80GWG33Vk2NB4IbPlSU2p2uw-mK79U54eKn1wtunA6noqI=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/@jdgtnight",
+                        "authorChannelId": {
+                            "value": "UCKK6mj5Z5hmfYThR7G_xLTA"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 0,
+                        "publishedAt": "2025-04-11T07:42:19Z",
+                        "updatedAt": "2025-04-11T07:42:19Z"
+                    }
+                },
+                "canReply": true,
+                "totalReplyCount": 0,
+                "isPublic": true
+            }
+        },
+        {
+            "kind": "youtube#commentThread",
+            "etag": "2wL2l7xumfmjoDxzsu4KzOzkjHY",
+            "id": "UgxCd07-XYeaETvFV3h4AaABAg",
+            "snippet": {
+                "channelId": "UCs5Y5_7XK8HLDX0SLNwkd3w",
+                "videoId": "dutyOc_cAEU",
+                "topLevelComment": {
+                    "kind": "youtube#comment",
+                    "etag": "fzqSVMCX3Ph0w4FpkbELT7lkYGY",
+                    "id": "UgxCd07-XYeaETvFV3h4AaABAg",
+                    "snippet": {
+                        "channelId": "UCs5Y5_7XK8HLDX0SLNwkd3w",
+                        "videoId": "dutyOc_cAEU",
+                        "textDisplay": "As amazing as this is, I see junior engineers essentially becoming senior engineers reviewing deprecated bug riddled LLM code. The whole point of being a JR engineer is to learn the ropes. If you don’t know what you’re doing yourself one can’t effectively moderate content. I see bigger PRs being submitted to the headache of actual senior engineers who have to review this.<br><br>Overall value of current senior engineers will rise as the skill and edge of junior engineers will starkly decrease in my opinion. No one’s getting replaced anytime soon, but a bottleneck is coming.",
+                        "textOriginal": "As amazing as this is, I see junior engineers essentially becoming senior engineers reviewing deprecated bug riddled LLM code. The whole point of being a JR engineer is to learn the ropes. If you don’t know what you’re doing yourself one can’t effectively moderate content. I see bigger PRs being submitted to the headache of actual senior engineers who have to review this.\n\nOverall value of current senior engineers will rise as the skill and edge of junior engineers will starkly decrease in my opinion. No one’s getting replaced anytime soon, but a bottleneck is coming.",
+                        "authorDisplayName": "@Riley-ml9vo",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_mCPdcdQwryzkCrY2y9odxjRHBxDfh_NfATMcJVjCJIJcqL=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/@Riley-ml9vo",
+                        "authorChannelId": {
+                            "value": "UCjoIZsRKh1loOMASOp5lw-A"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 31,
+                        "publishedAt": "2025-04-09T22:13:17Z",
+                        "updatedAt": "2025-04-09T22:13:17Z"
+                    }
+                },
+                "canReply": true,
+                "totalReplyCount": 3,
+                "isPublic": true
+            }
+        },
+        {
+            "kind": "youtube#commentThread",
+            "etag": "Wv6uJulD4o9jN7c-02EZZPsLJX4",
+            "id": "UgzVeAE--b-Hq-CeVm14AaABAg",
+            "snippet": {
+                "channelId": "UCs5Y5_7XK8HLDX0SLNwkd3w",
+                "videoId": "dutyOc_cAEU",
+                "topLevelComment": {
+                    "kind": "youtube#comment",
+                    "etag": "hj53nKX-G_qyJAh0Bfqq6G3EcQo",
+                    "id": "UgzVeAE--b-Hq-CeVm14AaABAg",
+                    "snippet": {
+                        "channelId": "UCs5Y5_7XK8HLDX0SLNwkd3w",
+                        "videoId": "dutyOc_cAEU",
+                        "textDisplay": "Simply awesome!",
+                        "textOriginal": "Simply awesome!",
+                        "authorDisplayName": "@juanraulvergaram.1792",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_mg_nAyk79RRsh8mPusPOMAoEBOe5ubRpvPMueYZgtL2PE=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/@juanraulvergaram.1792",
+                        "authorChannelId": {
+                            "value": "UCWG-BEVWQYurfVA9NciJuqw"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 0,
+                        "publishedAt": "2025-04-11T14:03:17Z",
+                        "updatedAt": "2025-04-11T14:03:17Z"
+                    }
+                },
+                "canReply": true,
+                "totalReplyCount": 0,
+                "isPublic": true
+            }
+        },
+        {
+            "kind": "youtube#commentThread",
+            "etag": "ENZAUuVfLKloikd58m9HdpFIi3s",
+            "id": "UgzSYzTdKlYtB3lMYv94AaABAg",
+            "snippet": {
+                "channelId": "UCs5Y5_7XK8HLDX0SLNwkd3w",
+                "videoId": "dutyOc_cAEU",
+                "topLevelComment": {
+                    "kind": "youtube#comment",
+                    "etag": "wtR_xhgs0YMG6TepeoRf0rwoqU4",
+                    "id": "UgzSYzTdKlYtB3lMYv94AaABAg",
+                    "snippet": {
+                        "channelId": "UCs5Y5_7XK8HLDX0SLNwkd3w",
+                        "videoId": "dutyOc_cAEU",
+                        "textDisplay": "Good video! Kinda off topic, which keyboard do you use in this video?",
+                        "textOriginal": "Good video! Kinda off topic, which keyboard do you use in this video?",
+                        "authorDisplayName": "@fluffycarpet4860",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_kB46k7huHj7FFNBNYxbgCQIF4oa6QZT8AT4_p1qQI=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/@fluffycarpet4860",
+                        "authorChannelId": {
+                            "value": "UCUDL8UbHQpe9WeQB86Aa_zQ"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 0,
+                        "publishedAt": "2025-04-11T12:33:17Z",
+                        "updatedAt": "2025-04-11T12:33:17Z"
+                    }
+                },
+                "canReply": true,
+                "totalReplyCount": 0,
+                "isPublic": true
+            }
+        },
+        {
+            "kind": "youtube#commentThread",
+            "etag": "-1on1LCAXFzGwLn_JgjJMPoBXs8",
+            "id": "UgzaflZ4RFa3W8N8u4t4AaABAg",
+            "snippet": {
+                "channelId": "UCs5Y5_7XK8HLDX0SLNwkd3w",
+                "videoId": "dutyOc_cAEU",
+                "topLevelComment": {
+                    "kind": "youtube#comment",
+                    "etag": "aYVFCnHi3HGw74WAVptKBMlB47A",
+                    "id": "UgzaflZ4RFa3W8N8u4t4AaABAg",
+                    "snippet": {
+                        "channelId": "UCs5Y5_7XK8HLDX0SLNwkd3w",
+                        "videoId": "dutyOc_cAEU",
+                        "textDisplay": "Thank you so much, please do more video like this &lt;3",
+                        "textOriginal": "Thank you so much, please do more video like this <3",
+                        "authorDisplayName": "@monogram6357",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_lmll46sD9HE0JPMCqDymUGNvJYAq4bhRPbWEB9vbzTwOR0Rf3KPABK3KX5L8nSwcWiyg=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/@monogram6357",
+                        "authorChannelId": {
+                            "value": "UCaifooZl1M9HxuVXIO7oxAQ"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 0,
+                        "publishedAt": "2025-04-10T16:02:34Z",
+                        "updatedAt": "2025-04-10T16:02:34Z"
+                    }
+                },
+                "canReply": true,
+                "totalReplyCount": 0,
+                "isPublic": true
+            }
+        },
+        {
+            "kind": "youtube#commentThread",
+            "etag": "tpfKEG3lizGqMlTv6mJ6Gca_0f8",
+            "id": "UgxdQEl5WogGlP6K9c94AaABAg",
+            "snippet": {
+                "channelId": "UCs5Y5_7XK8HLDX0SLNwkd3w",
+                "videoId": "dutyOc_cAEU",
+                "topLevelComment": {
+                    "kind": "youtube#comment",
+                    "etag": "RPw8DxiiHdLVQjo5gTiITPV2k8M",
+                    "id": "UgxdQEl5WogGlP6K9c94AaABAg",
+                    "snippet": {
+                        "channelId": "UCs5Y5_7XK8HLDX0SLNwkd3w",
+                        "videoId": "dutyOc_cAEU",
+                        "textDisplay": "Excellent explanation of the Agent mode.",
+                        "textOriginal": "Excellent explanation of the Agent mode.",
+                        "authorDisplayName": "@MahfuzulHasan100",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_l_hjQ9podpgyizDUndQ3qfRX5QW8UqtS6qs5lKvYsQg1U=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/@MahfuzulHasan100",
+                        "authorChannelId": {
+                            "value": "UC3eh2eHLQj_CquQG18ixncA"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 0,
+                        "publishedAt": "2025-04-10T14:47:38Z",
+                        "updatedAt": "2025-04-10T14:47:38Z"
+                    }
+                },
+                "canReply": true,
+                "totalReplyCount": 0,
+                "isPublic": true
+            }
+        },
+        {
+            "kind": "youtube#commentThread",
+            "etag": "8a9vzRuBJ-1SiY72RVqkGew0wWI",
+            "id": "UgwBWQy67kYPZLv6b1d4AaABAg",
+            "snippet": {
+                "channelId": "UCs5Y5_7XK8HLDX0SLNwkd3w",
+                "videoId": "dutyOc_cAEU",
+                "topLevelComment": {
+                    "kind": "youtube#comment",
+                    "etag": "dNfQBJypKKu2aEetEJyPmHoU_Oo",
+                    "id": "UgwBWQy67kYPZLv6b1d4AaABAg",
+                    "snippet": {
+                        "channelId": "UCs5Y5_7XK8HLDX0SLNwkd3w",
+                        "videoId": "dutyOc_cAEU",
+                        "textDisplay": "First off, great video. Second, am I going to starts using VS code again? Feels like it.",
+                        "textOriginal": "First off, great video. Second, am I going to starts using VS code again? Feels like it.",
+                        "authorDisplayName": "@taxed825",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_lPt00UuH4fEyGcOsKEzgFldE9nv6QHhCjPUd86aabCqmo=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/@taxed825",
+                        "authorChannelId": {
+                            "value": "UCzcHMyPlm-RdItiSB9Gfmbw"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 0,
+                        "publishedAt": "2025-04-11T13:24:16Z",
+                        "updatedAt": "2025-04-11T13:24:16Z"
+                    }
+                },
+                "canReply": true,
+                "totalReplyCount": 0,
+                "isPublic": true
+            }
+        },
+        {
+            "kind": "youtube#commentThread",
+            "etag": "UcRyhSPXqzWR339eITi0aUf81h4",
+            "id": "UgwGvKIIBwGmh9QsOfN4AaABAg",
+            "snippet": {
+                "channelId": "UCs5Y5_7XK8HLDX0SLNwkd3w",
+                "videoId": "dutyOc_cAEU",
+                "topLevelComment": {
+                    "kind": "youtube#comment",
+                    "etag": "QBNAV7jhHAiDqxjLwlSvM5Lsb6c",
+                    "id": "UgwGvKIIBwGmh9QsOfN4AaABAg",
+                    "snippet": {
+                        "channelId": "UCs5Y5_7XK8HLDX0SLNwkd3w",
+                        "videoId": "dutyOc_cAEU",
+                        "textDisplay": "This is very exciting, but the far future is definitely scary",
+                        "textOriginal": "This is very exciting, but the far future is definitely scary",
+                        "authorDisplayName": "@friedpizza262",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/L1o_QUsE29txK3fDZcgIjjYYr8D8kiyGms79rfg6KUtfScQwxAzPneVJLPtZ1iQgsR3OrGO7kA=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/@friedpizza262",
+                        "authorChannelId": {
+                            "value": "UCU9rPxN8tT7OhknwiSs5KRg"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 0,
+                        "publishedAt": "2025-04-11T10:46:44Z",
+                        "updatedAt": "2025-04-11T10:47:03Z"
+                    }
+                },
+                "canReply": true,
+                "totalReplyCount": 0,
+                "isPublic": true
+            }
+        },
+        {
+            "kind": "youtube#commentThread",
+            "etag": "k80P3nYihnSqxyYY485Cps9bnjo",
+            "id": "UgwtO5By1lyD_NcNWEh4AaABAg",
+            "snippet": {
+                "channelId": "UCs5Y5_7XK8HLDX0SLNwkd3w",
+                "videoId": "dutyOc_cAEU",
+                "topLevelComment": {
+                    "kind": "youtube#comment",
+                    "etag": "skQBq0Sss9_FcTvjCRYS7fIKG70",
+                    "id": "UgwtO5By1lyD_NcNWEh4AaABAg",
+                    "snippet": {
+                        "channelId": "UCs5Y5_7XK8HLDX0SLNwkd3w",
+                        "videoId": "dutyOc_cAEU",
+                        "textDisplay": "```<br>Checked {file}, 3 problems found<br>Great! The changes have been implemented successfully with no errors <br>```<br>😃👍",
+                        "textOriginal": "```\nChecked {file}, 3 problems found\nGreat! The changes have been implemented successfully with no errors \n```\n😃👍",
+                        "authorDisplayName": "@johndoe-ib5ev",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/EcDDim5yp_4ACRYBJS6nYvmjcyLslnj2KoyvlJ2WC11RAnQM_8qqBADlYKdRZyf9SpOPPV8L8w=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/@johndoe-ib5ev",
+                        "authorChannelId": {
+                            "value": "UCmlVa2ubeYgJI8_OEQhSLyA"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 0,
+                        "publishedAt": "2025-04-10T07:57:20Z",
+                        "updatedAt": "2025-04-10T07:57:20Z"
+                    }
+                },
+                "canReply": true,
+                "totalReplyCount": 0,
+                "isPublic": true
+            }
+        },
+        {
+            "kind": "youtube#commentThread",
+            "etag": "YdVQ0_FE6a-UbKwWJfuRqESWcxs",
+            "id": "UgziFYCp1DafNvnnl9x4AaABAg",
+            "snippet": {
+                "channelId": "UCs5Y5_7XK8HLDX0SLNwkd3w",
+                "videoId": "dutyOc_cAEU",
+                "topLevelComment": {
+                    "kind": "youtube#comment",
+                    "etag": "jpgqfKD0n_2T4EfcizWo_kCQ8WM",
+                    "id": "UgziFYCp1DafNvnnl9x4AaABAg",
+                    "snippet": {
+                        "channelId": "UCs5Y5_7XK8HLDX0SLNwkd3w",
+                        "videoId": "dutyOc_cAEU",
+                        "textDisplay": "Great video. Where can i find the PRD document you promised to add to the description?",
+                        "textOriginal": "Great video. Where can i find the PRD document you promised to add to the description?",
+                        "authorDisplayName": "@iamliving",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_n49h3WeJADni2cckbAoqxp_OeXzTiBYltPc_uPWOu65Yg=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/@iamliving",
+                        "authorChannelId": {
+                            "value": "UCkJyt_Emys1GJ40UTJsPrCQ"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 2,
+                        "publishedAt": "2025-04-10T16:21:18Z",
+                        "updatedAt": "2025-04-10T16:21:18Z"
+                    }
+                },
+                "canReply": true,
+                "totalReplyCount": 1,
+                "isPublic": true
+            }
+        },
+        {
+            "kind": "youtube#commentThread",
+            "etag": "g47M7ipRPqSE6wJJSQr-QabfToc",
+            "id": "UgyBYuZuQi2KevMLJ2d4AaABAg",
+            "snippet": {
+                "channelId": "UCs5Y5_7XK8HLDX0SLNwkd3w",
+                "videoId": "dutyOc_cAEU",
+                "topLevelComment": {
+                    "kind": "youtube#comment",
+                    "etag": "MIRCPuI2Hgb2NZd236ilUIt8psk",
+                    "id": "UgyBYuZuQi2KevMLJ2d4AaABAg",
+                    "snippet": {
+                        "channelId": "UCs5Y5_7XK8HLDX0SLNwkd3w",
+                        "videoId": "dutyOc_cAEU",
+                        "textDisplay": "What’s the deal with these Agents and the underlying LLM context windows? I’m always so curious about the application of something like this Agent on larger, production-level applications. Great video and truly can’t wait to play with this myself.",
+                        "textOriginal": "What’s the deal with these Agents and the underlying LLM context windows? I’m always so curious about the application of something like this Agent on larger, production-level applications. Great video and truly can’t wait to play with this myself.",
+                        "authorDisplayName": "@scottrussell4750",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/WwXgSHMgmRM5toSthK-79x5yPaU5bYxBSj2MKLW0phwp6mKBfGusMCYy5PJrAczeDujPwqWJvQ=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/@scottrussell4750",
+                        "authorChannelId": {
+                            "value": "UC_xsPDedyHBxLQBCm4KLRbg"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 0,
+                        "publishedAt": "2025-04-11T05:21:18Z",
+                        "updatedAt": "2025-04-11T05:21:18Z"
+                    }
+                },
+                "canReply": true,
+                "totalReplyCount": 0,
+                "isPublic": true
+            }
+        },
+        {
+            "kind": "youtube#commentThread",
+            "etag": "ZpOW21wCEERAYHcJWD_qnfm2W8E",
+            "id": "UgyWiJSTs-TkSFEtD3V4AaABAg",
+            "snippet": {
+                "channelId": "UCs5Y5_7XK8HLDX0SLNwkd3w",
+                "videoId": "dutyOc_cAEU",
+                "topLevelComment": {
+                    "kind": "youtube#comment",
+                    "etag": "SesKRdlHdCZmCWImWUb-LlMYfPA",
+                    "id": "UgyWiJSTs-TkSFEtD3V4AaABAg",
+                    "snippet": {
+                        "channelId": "UCs5Y5_7XK8HLDX0SLNwkd3w",
+                        "videoId": "dutyOc_cAEU",
+                        "textDisplay": "Regarding <a href=\"http://www.youtube.com/results?search_query=%23fetch\">#fetch</a>, how does it work if instructions split on multiple pages? Also, sometimes docs just aren&#39;t that good and they have split content for multiple pages that you may not find all of them on your own (otherwise you would do that yourself), does he able to fetch more pages to find required context?",
+                        "textOriginal": "Regarding #fetch, how does it work if instructions split on multiple pages? Also, sometimes docs just aren't that good and they have split content for multiple pages that you may not find all of them on your own (otherwise you would do that yourself), does he able to fetch more pages to find required context?",
+                        "authorDisplayName": "@XCanG",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/7goRV8ZoIgZmGTYFsze6IZQss7a5Bgg7FOlqRyddjbP1FjM1PE5hr7_CAhDZRhtjYlol8w7fgw=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/@XCanG",
+                        "authorChannelId": {
+                            "value": "UCd5_31SCd4_k3kpYxEoTG4g"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 0,
+                        "publishedAt": "2025-04-11T06:54:30Z",
+                        "updatedAt": "2025-04-11T06:54:30Z"
+                    }
+                },
+                "canReply": true,
+                "totalReplyCount": 0,
+                "isPublic": true
+            }
+        },
+        {
+            "kind": "youtube#commentThread",
+            "etag": "CIZLxw-l0XjS7dppUlGfVaO2JXA",
+            "id": "UgzSreEUC49PY5rBcTx4AaABAg",
+            "snippet": {
+                "channelId": "UCs5Y5_7XK8HLDX0SLNwkd3w",
+                "videoId": "dutyOc_cAEU",
+                "topLevelComment": {
+                    "kind": "youtube#comment",
+                    "etag": "IrSYBApty3ulQjONQtxKfqy6Xag",
+                    "id": "UgzSreEUC49PY5rBcTx4AaABAg",
+                    "snippet": {
+                        "channelId": "UCs5Y5_7XK8HLDX0SLNwkd3w",
+                        "videoId": "dutyOc_cAEU",
+                        "textDisplay": "Awesome video，but I wonder how do you generate the instruction doc？How do you make the agent not forget the context？",
+                        "textOriginal": "Awesome video，but I wonder how do you generate the instruction doc？How do you make the agent not forget the context？",
+                        "authorDisplayName": "@jakejohn7619",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_mp4blW-Xdx51EDCowMZrD3h5PMDEioN0P5DMiIrTw=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/@jakejohn7619",
+                        "authorChannelId": {
+                            "value": "UCzttCJxlVtUPhiD7QFjxzXg"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 0,
+                        "publishedAt": "2025-04-11T04:37:48Z",
+                        "updatedAt": "2025-04-11T04:37:48Z"
+                    }
+                },
+                "canReply": true,
+                "totalReplyCount": 0,
+                "isPublic": true
+            }
+        },
+        {
+            "kind": "youtube#commentThread",
+            "etag": "685OKoaa_2rpJ7vh-3672JzPO0c",
+            "id": "UgwAnN-pC6gXgOzRcqx4AaABAg",
+            "snippet": {
+                "channelId": "UCs5Y5_7XK8HLDX0SLNwkd3w",
+                "videoId": "dutyOc_cAEU",
+                "topLevelComment": {
+                    "kind": "youtube#comment",
+                    "etag": "dPi5L3jOvbXloSBzMhMCmaxdtVk",
+                    "id": "UgwAnN-pC6gXgOzRcqx4AaABAg",
+                    "snippet": {
+                        "channelId": "UCs5Y5_7XK8HLDX0SLNwkd3w",
+                        "videoId": "dutyOc_cAEU",
+                        "textDisplay": "Honest feedback , I used the agent for sometime in insiders before it was available and I can tell you today, if copilot cannot match or exceed the capabilities of Augment agent then copilots days are numbered. Today I will not use anything else but augment because it is truly agentic .. copilot agent is no where close unfortunately.. please use this feedback for the developers because they need to step up their game quickly to keep up",
+                        "textOriginal": "Honest feedback , I used the agent for sometime in insiders before it was available and I can tell you today, if copilot cannot match or exceed the capabilities of Augment agent then copilots days are numbered. Today I will not use anything else but augment because it is truly agentic .. copilot agent is no where close unfortunately.. please use this feedback for the developers because they need to step up their game quickly to keep up",
+                        "authorDisplayName": "@telnemri",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/b1I_1gO4MGIsKeIJnpNnkmagHU8j7YAqH5HyydStK4B54f2zeYK0kqmv4pM5jwBVxF9you4a_A=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/@telnemri",
+                        "authorChannelId": {
+                            "value": "UCKfTuuKCjK3iVzIiAclNxFw"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 0,
+                        "publishedAt": "2025-04-10T02:06:51Z",
+                        "updatedAt": "2025-04-10T02:06:51Z"
+                    }
+                },
+                "canReply": true,
+                "totalReplyCount": 0,
+                "isPublic": true
+            }
+        },
+        {
+            "kind": "youtube#commentThread",
+            "etag": "stCW_VlO2r_D_fHNIluElvbETtY",
+            "id": "UgxuZq_N2hGSJ_KaDW94AaABAg",
+            "snippet": {
+                "channelId": "UCs5Y5_7XK8HLDX0SLNwkd3w",
+                "videoId": "dutyOc_cAEU",
+                "topLevelComment": {
+                    "kind": "youtube#comment",
+                    "etag": "UUR40mfo7cjYBs8rHzOa9X0YPck",
+                    "id": "UgxuZq_N2hGSJ_KaDW94AaABAg",
+                    "snippet": {
+                        "channelId": "UCs5Y5_7XK8HLDX0SLNwkd3w",
+                        "videoId": "dutyOc_cAEU",
+                        "textDisplay": "I would still follow the documentation tbh!",
+                        "textOriginal": "I would still follow the documentation tbh!",
+                        "authorDisplayName": "@cugansteamid6252",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_lgJ4Ro1k-pzUYsGPoT2A6QSxuNS-481lHn8VbPfsV7dA=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/@cugansteamid6252",
+                        "authorChannelId": {
+                            "value": "UCLhjo_CzbSCnEcJtNgmp2Ig"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 1,
+                        "publishedAt": "2025-04-10T07:52:21Z",
+                        "updatedAt": "2025-04-10T07:52:21Z"
+                    }
+                },
+                "canReply": true,
+                "totalReplyCount": 0,
+                "isPublic": true
+            }
+        },
+        {
+            "kind": "youtube#commentThread",
+            "etag": "en1YBg8s1zdDotbeK8b7TrGJRzM",
+            "id": "UgxxCHxDbf3rSkXgjCJ4AaABAg",
+            "snippet": {
+                "channelId": "UCs5Y5_7XK8HLDX0SLNwkd3w",
+                "videoId": "dutyOc_cAEU",
+                "topLevelComment": {
+                    "kind": "youtube#comment",
+                    "etag": "pRmzLixdxxfshk75BW6QgbPEPqo",
+                    "id": "UgxxCHxDbf3rSkXgjCJ4AaABAg",
+                    "snippet": {
+                        "channelId": "UCs5Y5_7XK8HLDX0SLNwkd3w",
+                        "videoId": "dutyOc_cAEU",
+                        "textDisplay": "So basically vscode agent will automatically have access to all your credentials and proprietary data. Great, security will love this.",
+                        "textOriginal": "So basically vscode agent will automatically have access to all your credentials and proprietary data. Great, security will love this.",
+                        "authorDisplayName": "@bcloudengineers",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/psp1id-DbZOouwTjTrTcv5iJtKt2Hp7PnKGdpLY1i_PmVgXMHDLVI9Hbtu29dy7RTLtRasL3BQ=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/@bcloudengineers",
+                        "authorChannelId": {
+                            "value": "UC6cEAjWDsoFCR19fQG-PzLg"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 0,
+                        "publishedAt": "2025-04-11T05:16:15Z",
+                        "updatedAt": "2025-04-11T05:16:15Z"
+                    }
+                },
+                "canReply": true,
+                "totalReplyCount": 0,
+                "isPublic": true
+            }
+        },
+        {
+            "kind": "youtube#commentThread",
+            "etag": "uLFkZV29A_IqUJx520l_enDH1M0",
+            "id": "UgwQkou74wP8UtwFRD54AaABAg",
+            "snippet": {
+                "channelId": "UCs5Y5_7XK8HLDX0SLNwkd3w",
+                "videoId": "dutyOc_cAEU",
+                "topLevelComment": {
+                    "kind": "youtube#comment",
+                    "etag": "6glsAoj1oCW4xrw05HHCzVYDG0g",
+                    "id": "UgwQkou74wP8UtwFRD54AaABAg",
+                    "snippet": {
+                        "channelId": "UCs5Y5_7XK8HLDX0SLNwkd3w",
+                        "videoId": "dutyOc_cAEU",
+                        "textDisplay": "I would like to know if a GitHub repository is available for this example.",
+                        "textOriginal": "I would like to know if a GitHub repository is available for this example.",
+                        "authorDisplayName": "@douglasfugazi",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_negJNrdzu5HYPFULDmk-qtHYbFvbFMOouC-KiZ-i7bExc=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/@douglasfugazi",
+                        "authorChannelId": {
+                            "value": "UCm22P9Yhakzzo7nVUpw_IcA"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 1,
+                        "publishedAt": "2025-04-10T02:32:43Z",
+                        "updatedAt": "2025-04-10T02:32:43Z"
+                    }
+                },
+                "canReply": true,
+                "totalReplyCount": 0,
+                "isPublic": true
+            }
+        },
+        {
+            "kind": "youtube#commentThread",
+            "etag": "7DcEuLm9QXi03juNKd83jfSziu4",
+            "id": "UgzMXxFbyExT54N7L854AaABAg",
+            "snippet": {
+                "channelId": "UCs5Y5_7XK8HLDX0SLNwkd3w",
+                "videoId": "dutyOc_cAEU",
+                "topLevelComment": {
+                    "kind": "youtube#comment",
+                    "etag": "eQaf1qtgjDe1YEBARyx7Cd1eb9Q",
+                    "id": "UgzMXxFbyExT54N7L854AaABAg",
+                    "snippet": {
+                        "channelId": "UCs5Y5_7XK8HLDX0SLNwkd3w",
+                        "videoId": "dutyOc_cAEU",
+                        "textDisplay": "Yeah, but if I try using Agent mode, it just says its getting ready -- and then that it can&#39;t get ready. It never finishes. Does anyone else run into this problem?",
+                        "textOriginal": "Yeah, but if I try using Agent mode, it just says its getting ready -- and then that it can't get ready. It never finishes. Does anyone else run into this problem?",
+                        "authorDisplayName": "@JeremyKolassa",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_kLoyC-8CFqZ3hhaMSPVcyc4hLOd9ouDB884x8cU5cyRqg=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/@JeremyKolassa",
+                        "authorChannelId": {
+                            "value": "UCdyVChbDVMpSSEahjuWP9lg"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 1,
+                        "publishedAt": "2025-04-10T13:39:09Z",
+                        "updatedAt": "2025-04-10T13:39:09Z"
+                    }
+                },
+                "canReply": true,
+                "totalReplyCount": 0,
+                "isPublic": true
+            }
+        },
+        {
+            "kind": "youtube#commentThread",
+            "etag": "gcgrpUVSTBBa9g6H6Jvl2FcgGVU",
+            "id": "Ugwm0Nm2MBpRpILRlGJ4AaABAg",
+            "snippet": {
+                "channelId": "UCs5Y5_7XK8HLDX0SLNwkd3w",
+                "videoId": "dutyOc_cAEU",
+                "topLevelComment": {
+                    "kind": "youtube#comment",
+                    "etag": "5P3HgqrUhQR2saMU9KifytCwM10",
+                    "id": "Ugwm0Nm2MBpRpILRlGJ4AaABAg",
+                    "snippet": {
+                        "channelId": "UCs5Y5_7XK8HLDX0SLNwkd3w",
+                        "videoId": "dutyOc_cAEU",
+                        "textDisplay": "So you basically took &quot;inspiration&quot; from Cursor and adapted this to OG VSCode. Nice. Competition is always good. Might reactivate my Copilot Pro Tier and give it a try. :)",
+                        "textOriginal": "So you basically took \"inspiration\" from Cursor and adapted this to OG VSCode. Nice. Competition is always good. Might reactivate my Copilot Pro Tier and give it a try. :)",
+                        "authorDisplayName": "@fenrir20678",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_knN-jkW0BumikHgWUNSf8G98l3EWnwhhrAvbrqT89fEA=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/@fenrir20678",
+                        "authorChannelId": {
+                            "value": "UCHaOnGU9OX0sNfPznQLZ5uw"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 0,
+                        "publishedAt": "2025-04-10T09:04:23Z",
+                        "updatedAt": "2025-04-10T09:04:23Z"
+                    }
+                },
+                "canReply": true,
+                "totalReplyCount": 0,
+                "isPublic": true
+            }
+        },
+        {
+            "kind": "youtube#commentThread",
+            "etag": "jIT0ob6C_RwTm9-62pUzP5Srass",
+            "id": "UgzsYqkoN5aJrm_8UHl4AaABAg",
+            "snippet": {
+                "channelId": "UCs5Y5_7XK8HLDX0SLNwkd3w",
+                "videoId": "dutyOc_cAEU",
+                "topLevelComment": {
+                    "kind": "youtube#comment",
+                    "etag": "mFQNQR-O5PYxs2f9XXjo0ZV6e28",
+                    "id": "UgzsYqkoN5aJrm_8UHl4AaABAg",
+                    "snippet": {
+                        "channelId": "UCs5Y5_7XK8HLDX0SLNwkd3w",
+                        "videoId": "dutyOc_cAEU",
+                        "textDisplay": "I dont have available &#39;manage models&#39; button yet, do you know how turn it on?",
+                        "textOriginal": "I dont have available 'manage models' button yet, do you know how turn it on?",
+                        "authorDisplayName": "@juanramonespinozagon",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_lxurv7GcZ2KHJU837QdL7d1vgetIxGNtKDLAb2WBRNgQ=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/@juanramonespinozagon",
+                        "authorChannelId": {
+                            "value": "UCw5ccPSvixgqdiz6AIXX29g"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 6,
+                        "publishedAt": "2025-04-09T23:59:48Z",
+                        "updatedAt": "2025-04-10T00:00:00Z"
+                    }
+                },
+                "canReply": true,
+                "totalReplyCount": 3,
+                "isPublic": true
+            }
+        },
+        {
+            "kind": "youtube#commentThread",
+            "etag": "M8rOryiOPu7eocTCt7Jw_gm0Rxw",
+            "id": "UgyrOQxYxUl-aeWPp8t4AaABAg",
+            "snippet": {
+                "channelId": "UCs5Y5_7XK8HLDX0SLNwkd3w",
+                "videoId": "dutyOc_cAEU",
+                "topLevelComment": {
+                    "kind": "youtube#comment",
+                    "etag": "BHedNWIgujYrzKDbThWaVzNz76g",
+                    "id": "UgyrOQxYxUl-aeWPp8t4AaABAg",
+                    "snippet": {
+                        "channelId": "UCs5Y5_7XK8HLDX0SLNwkd3w",
+                        "videoId": "dutyOc_cAEU",
+                        "textDisplay": "&#39;Just as you would do as a developer - read the docs.&#39;<br>I only wish that were globally true xD",
+                        "textOriginal": "'Just as you would do as a developer - read the docs.'\nI only wish that were globally true xD",
+                        "authorDisplayName": "@STiX180",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/WBcCOykJnZY15ho-Tl-tmdyoKj5zLK8kSQPldU6Cd_ERhprThD1_oVLAmH9IaWRwlo04-10S5-I=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/@STiX180",
+                        "authorChannelId": {
+                            "value": "UCVRvpdptjI5kpugzmWk-meQ"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 0,
+                        "publishedAt": "2025-04-11T11:11:53Z",
+                        "updatedAt": "2025-04-11T11:11:53Z"
+                    }
+                },
+                "canReply": true,
+                "totalReplyCount": 0,
+                "isPublic": true
+            }
+        },
+        {
+            "kind": "youtube#commentThread",
+            "etag": "-On6px0gdrIqdRuSkAMIeMvp1D0",
+            "id": "UgwX9pAGfQxM1LHDdGF4AaABAg",
+            "snippet": {
+                "channelId": "UCs5Y5_7XK8HLDX0SLNwkd3w",
+                "videoId": "dutyOc_cAEU",
+                "topLevelComment": {
+                    "kind": "youtube#comment",
+                    "etag": "XjBgarDL1ZLJOqBlKSrJhs2yWEM",
+                    "id": "UgwX9pAGfQxM1LHDdGF4AaABAg",
+                    "snippet": {
+                        "channelId": "UCs5Y5_7XK8HLDX0SLNwkd3w",
+                        "videoId": "dutyOc_cAEU",
+                        "textDisplay": "FANTASTIC VIDEO! Thank you.",
+                        "textOriginal": "FANTASTIC VIDEO! Thank you.",
+                        "authorDisplayName": "@grymmjack",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_nf13DzKDmVEUowFwQNkLklyxWprFb4m-bAL2L7hPruDA=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/@grymmjack",
+                        "authorChannelId": {
+                            "value": "UCrp_r9aomBi4mryxSxLq24Q"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 0,
+                        "publishedAt": "2025-04-10T16:15:44Z",
+                        "updatedAt": "2025-04-10T16:15:44Z"
+                    }
+                },
+                "canReply": true,
+                "totalReplyCount": 0,
+                "isPublic": true
+            }
+        },
+        {
+            "kind": "youtube#commentThread",
+            "etag": "jdsHdy3VTx2V6M_6_mysIomycBU",
+            "id": "UgwVKh17_r1nGsHaCol4AaABAg",
+            "snippet": {
+                "channelId": "UCs5Y5_7XK8HLDX0SLNwkd3w",
+                "videoId": "dutyOc_cAEU",
+                "topLevelComment": {
+                    "kind": "youtube#comment",
+                    "etag": "l9KYnYPxaVJQ-1iydEtyGEg5qXI",
+                    "id": "UgwVKh17_r1nGsHaCol4AaABAg",
+                    "snippet": {
+                        "channelId": "UCs5Y5_7XK8HLDX0SLNwkd3w",
+                        "videoId": "dutyOc_cAEU",
+                        "textDisplay": "Im honestly slowly moving from being a AI doomer to not only thinking imagine what this helps us accomplish. But also how much cooler stuff humans can build and what new problems, tasks and challenges humanity will find. This is not the end its only the beginning",
+                        "textOriginal": "Im honestly slowly moving from being a AI doomer to not only thinking imagine what this helps us accomplish. But also how much cooler stuff humans can build and what new problems, tasks and challenges humanity will find. This is not the end its only the beginning",
+                        "authorDisplayName": "@samuelkovanko7198",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_l1JeaWSGDJ_g7ueGxrxksi0TUr_Nayj3lyMPGtKujzNo0=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/@samuelkovanko7198",
+                        "authorChannelId": {
+                            "value": "UCRBk5XVV3RNSy6jUhYvHo1Q"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 0,
+                        "publishedAt": "2025-04-10T20:34:23Z",
+                        "updatedAt": "2025-04-10T20:34:23Z"
+                    }
+                },
+                "canReply": true,
+                "totalReplyCount": 0,
+                "isPublic": true
+            }
+        },
+        {
+            "kind": "youtube#commentThread",
+            "etag": "uqpdtFpeRLQhREyPRSH-OBpXyYQ",
+            "id": "UgzJrOC1enJqztf20SJ4AaABAg",
+            "snippet": {
+                "channelId": "UCs5Y5_7XK8HLDX0SLNwkd3w",
+                "videoId": "dutyOc_cAEU",
+                "topLevelComment": {
+                    "kind": "youtube#comment",
+                    "etag": "11K0SJ2X2rpHQNHMMfH6b3khgoQ",
+                    "id": "UgzJrOC1enJqztf20SJ4AaABAg",
+                    "snippet": {
+                        "channelId": "UCs5Y5_7XK8HLDX0SLNwkd3w",
+                        "videoId": "dutyOc_cAEU",
+                        "textDisplay": "i really want this to succeed bros, but it&#39;s still leagues behind windsurf, cursor, and roocode with the right models. please don&#39;t give up on this!",
+                        "textOriginal": "i really want this to succeed bros, but it's still leagues behind windsurf, cursor, and roocode with the right models. please don't give up on this!",
+                        "authorDisplayName": "@eduhsuhn",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/lohgGU-2OaB8ptqq9DVjaEYZRGHCsxmHxE6iMSLp1ZCeKpJs8dcwynEwy77jgeWAfNt-v0yi=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/@eduhsuhn",
+                        "authorChannelId": {
+                            "value": "UC1UdivAgl1x1Li-3MkD28-Q"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 0,
+                        "publishedAt": "2025-04-10T16:30:06Z",
+                        "updatedAt": "2025-04-10T16:30:06Z"
+                    }
+                },
+                "canReply": true,
+                "totalReplyCount": 0,
+                "isPublic": true
+            }
+        }
+    ]
+}
