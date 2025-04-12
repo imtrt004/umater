@@ -492,13 +492,13 @@ export async function suggestionsToKeywordMetrics(suggestions: string[]): Promis
 }
 
 /**
- * Fetches YouTube most replayed data using the yt_most_replayed package
+ * Fetches YouTube most replayed data using our custom implementation
  * @param videoId YouTube video ID
  * @returns Processed heatmap data
  */
 export async function fetchYoutubeMostReplayed(videoId: string) {
   try {
-    // Call our internal API endpoint that uses yt_most_replayed
+    // Call our internal API endpoint that uses our custom implementation
     const response = await fetch('/api/youtube-most-replayed', {
       method: 'POST',
       headers: {
