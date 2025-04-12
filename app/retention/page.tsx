@@ -2,6 +2,7 @@
 
 import RetentionAnalyzer from '../components/RetentionAnalyzer';
 import { FaChartLine, FaCrown } from 'react-icons/fa';
+import { Suspense } from 'react';
 
 export default function RetentionPage() {
   return (
@@ -22,7 +23,9 @@ export default function RetentionPage() {
         </div>
       </div>
       
-      <RetentionAnalyzer />
+      <Suspense fallback={<div className="p-12 text-center text-white">Loading retention analyzer...</div>}>
+        <RetentionAnalyzer />
+      </Suspense>
       
       <div className="bg-gray-800 rounded-xl p-6 border border-gray-700">
         <h2 className="text-xl font-bold text-white mb-4">Why Retention Matters</h2>
